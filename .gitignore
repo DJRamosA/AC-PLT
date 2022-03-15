@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other Files
+SBW-vectors-300-min5.bin
+# Datos Codificados Estudio v2a.xlsx
