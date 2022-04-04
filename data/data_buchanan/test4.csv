@@ -1,0 +1,988 @@
+,Palabra (concepto),Codificación,Descripción
+2964,Plan,preparación,algo preparado
+2965,Plan,pasos,tiene pasos
+2966,Plan,guía,guia
+2967,Plan,modelo,modelo a seguir
+2968,Plan,estructura,es estructurado
+2969,Plan,no espontaneo,no involucra espontaneidad de acontecimientos
+2970,Ansiedad,trastorno,trastorno
+2971,Ansiedad,intranquilidad,intranquilidad
+2972,Ansiedad,impaciencia,impaciencia
+2973,Ansiedad,presión,se puede producir estando bajo presión
+2974,Ansiedad,desorden,crea otros desordenes en el cuerpo
+2975,Acuerdo,unánime,unanimidad
+2976,Acuerdo,conformidad,conformidad
+2977,Acuerdo,tratado,tratado
+2978,Acuerdo,justo,es justo
+2979,Acuerdo,deber,involucra responsabilidad
+2980,Acuerdo,compromiso,compromiso
+2981,Peligro,alerta,Situacion que activa una maxima alerta en las personas
+2982,Peligro,exposición,Exposicion a ser dañado 
+2983,Peligro,angustia,Genera angustia y miedo en las personas
+2984,Peligro,riesgo,Riesgo
+2985,Peligro,inseguridad,Resulta de la poca seguridad
+2986,Peligro,amenaza,amenaza para el bienestar
+2987,Peligro,a salvo,Las personas buscan estar a salvo de el 
+2988,Obsesión,idolatración,Idolatracion excesiva
+2989,Obsesión,riesgo,Conducta de riesgo 
+2990,Obsesión,extremos,Las personas que lo sufren pueden llegar a situaciones extremas
+2991,Obsesión,no autoestima,Puede influir en el la poca autoestima
+2992,Obsesión,confución amor,Se confunde recurrentemente con el enamoramiento
+2993,Obsesión,psicopatía,Lleva a conductas asociadas con la psicopatia 
+2994,Culpa,negativo,Sentimiento negativo
+2995,Culpa,mal,resulta de un mal acto provocado por una persona
+2996,Culpa,arrepentimiento,Las personas que la sienten parten por el arrepentimiento
+2997,Culpa,angustia,Causa gran angustia
+2998,Culpa,reconocimiento,Su solucion es reconocer que se ha cometido un error
+2999,Culpa,mal,La sienten personas que hacen cosas malas 
+3000,Culpa,sanación,Es el primer paso a la sanacion de una mala sensacion
+3001,Plan,proyecto,Proyecto
+3002,Plan,futuro,Determinacion de un futuro
+3003,Plan,camino,Camino a seguir
+3004,Plan,coordinación,Coordinacion de ideas para un fin 
+3005,Plan,organización,Organización 
+3006,Plan,meta,Conseguir una meta
+3007,Plan,idea,Ideas
+3008,Plan,solución,Soluciones a problemas
+3009,Definición,características,Datar caracteristicas de un concepto
+3010,Definición,explicación,Explicar que es algo
+3011,Definición,ayuda,Ayuda a las personas a entender que son las cosas
+3012,Definición,estudiar,Preponderante en el estudio de los alumnos 
+3013,Definición,orden,Gracias a el podemos tener un orden mental de las cosas
+3014,Definición,sabiduría,Proporciona sabiduria
+3015,Amenaza,riesgo,Pone a las personas en riesgo 
+3016,Amenaza,chantaje,Se relaciona con el chantaje
+3017,Amenaza,angustia,Genera angustia en quien la recibe
+3018,Amenaza,manipulación,Forma de manipular a las personas
+3019,Amenaza,extremos,Conducta extrema para conseguir un fin
+3020,Amenaza,peligro,Posible peligro
+3021,Amenaza,inseguridad,Da inseguridad a las personas
+3022,Compasión,empatía,Sentimiento de empatia
+3023,Compasión,ayuda,Sentimiento que sirve para ayudar al resto 
+3024,Compasión,entendimiento,Entender la situacion del otro 
+3025,Compasión,solidaridad,Se ve mucho en programas solidarios
+3026,Ganancia,ingreso,Ingreso
+3027,Ganancia,suma,Suma en un capital
+3028,Ganancia,sueldo,Las personas que reciben un sueldo la tienen
+3029,Ganancia,distintos,"Hay distintos tipos de ella, ya sea en plano material y emocional."
+3030,Ganancia,positivo,Positiva
+3031,Éxito,sensación,Sensacion enriquecedora
+3032,Éxito,logro,Sucede a un logro 
+3033,Éxito,positivo,Las personas con muchos proyectos positivos lo tienen
+3034,Éxito,realización,realizacion 
+3035,Éxito,tranquilidad,Genera tranquilidad en las personas
+3036,Éxito,orgullo,Motivo de orgullo 
+3037,Éxito,humano,Todas las personas lo buscan 
+3038,Éxito,poder,Poder 
+3039,Verdad,sinceridad,Sinceridad
+3040,Verdad,objetividad,Algo objetivo
+3041,Verdad,honestidad,Honestidad
+3042,Verdad,positivo,Las personas que la usan son mas positivas
+3043,Verdad,no problemas,Suele evitar problemas
+3044,Verdad,fuerza,Hay algunas tan fuertes que te meten en problemas 
+3045,Verdad,honradez,Conducta considerada honrada 
+3046,Felicidad,emoción,es una emoción positiva
+3047,Felicidad,alegría,alegría
+3048,Felicidad,regocijo,regocijo
+3049,Felicidad,bien,algo bueno
+3050,Felicidad,sonrisa,provoca sonrisas
+3051,Éxito,logro,Lograr algo
+3052,Éxito,cumplimiento,cumplir una meta
+3053,Éxito,bien,rendir bien
+3054,Ansiedad,nerviosismo,nerviosismo
+3055,Ansiedad,emoción,es una emoción
+3056,Amenaza,peligro,Algo peligroso
+3057,Amenaza,daño,Dañino
+3058,Amenaza,mal,probabilidad de que pase algo malo
+3059,Destreza,habilidades,Buena habilidad en algo
+3060,Destreza,desempeño,Buen desempeño
+3061,Acuerdo,tratado,tratado
+3062,Acuerdo,dos o más partes,se establece entre dos entidades para un fin
+3063,Desesperación,negativo,Emoción negativa
+3064,Desesperación,angustia,Angustia
+3065,Obligación,hacer,Es el deber hacer algo
+3066,Obligación,compromiso,Una especie de compromiso
+3067,Obligación,responsabilidad,Ser responsable de hacer algo
+3068,Obligación,sometimiento,Estar sometido a algo
+3069,Ganancia,recompensa,Recompensa
+3070,Ganancia,esfuerzo,Se obtiene luego de un gran esfuerzo
+3071,Obsesión,no dejar,no poder de dejar pensar/querer  algo
+3072,Obsesión,adicción,Adicción
+3073,Ganancia,beneficios,Beneficios
+3074,Ganancia,ingreso,Ingresos mayores a gastos
+3075,Ganancia,negocios,Cuando me va bien en el negocio se obtienen …….
+3076,Ganancia,mayor,Entre mayor sea la …… mejor
+3077,Ganancia,necesario,Necesarias para sobrevivir
+3078,Ganancia,beneficios,Cuando los beneficios sobrepasan los perjiuicios
+3079,Ganancia,dinero,Casi siempre se habla de este concepto en términos monetarios
+3080,Ganancia,aprendizaje,Aunque puede referirse a varios ámbitos como el aprendizaje 
+3081,Ganancia,no perdida,Es lo contrario a Perdida
+3082,Agradecimiento,recompensa,Forma de recompensar algún favor
+3083,Agradecimiento,sentimiento,Sentimiento despues de que alguien hizo algo por ti
+3084,Agradecimiento,favor,"Si me haces un favor, yo me siento……."
+3085,Agradecimiento,padres,Se siente un gran……. hacia nuestros padres
+3086,Agradecimiento,cariño,Es lo contrario a resentimiento
+3087,Amenaza,peligro,Peligro que provoca algo o alguien
+3088,Amenaza,miedo,Miedo que se tiene a algo o alguien
+3089,Amenaza,perjuicio,Algo o alguien que tiene potencial de causarme algun perjuicio
+3090,Amenaza,alien,Una invasión alienigena es una potencial…..
+3091,Amenaza,secuestro,"En un secuestro, siempre se ……. Con matar al rehen"
+3092,Amenaza,peligro,Se utiliza para obtener algo a costa de hacer peligrar algo importante
+3093,Obligación,deber,Un deber que se tiene que cumplir te guste o no
+3094,Obligación,colegio,"Cuando se es pequeño, ir al colegio es una ……."
+3095,Obligación,no prohibicion,Lo contrario a prohibicion
+3096,Habilidad,capacidad,Poseer una capacidad mayor a la que otros poseen
+3097,Habilidad,deporte,Los futbolistas poseen una mayor ………… que el resto para jugar futbol
+3098,Habilidad,desarrollo,O también pueden desarrollarse con práctica
+3099,Habilidad,esfuerzo,Normalmente se obtienen despúes de mucho esfuerzo
+3100,Habilidad,no discapacidad,Lo contrario a discapacidad
+3101,Éxito,isp,El objetivo de todos en la vida
+3102,Éxito,completar,Cuando se logra completar algun desafío
+3103,Éxito,no fracaso,Es lo contrario a fracaso
+3104,Éxito,esfuerzo,Normalmente se obtiene despues de mucho esfuerzo
+3105,Culpa,negativo,Sentimiento negativo
+3106,Culpa,mal,Se siente cuando uno no se siente bien con las acciones que realizó
+3107,Culpa,error,Se siente despúes de cometer algún error tonto
+3108,Culpa,mal,Cuando me siento mal hago un mea ……
+3109,Definición,explicación,Explicación de algún concepto
+3110,Definición,diccionario,El diccionario posee muchas …………..
+3111,Definición,significado,Significado de las palabras
+3112,Pensamiento,mente,Hay muchos en la mente
+3113,Pensamiento,acertividad,Siempre se trata de que sean acertados
+3114,Pensamiento,razonamiento,Capacidad que tienen las personas de razonar
+3115,Pensamiento,todo el día,Todo el día se está ………………
+3116,Desesperación,negativo,Sentimiento negativo
+3117,Desesperación,no solución,Se siente cuando se piensa que no hay solución
+3118,Desesperación,desesperanza,Es lo contrario a Esperanza
+3119,Desesperación,urgencia,Cuanddo se necesita algo urgentemente y sabes que no lo puedes tener
+3120,Desesperación,evitación,Todos tratan de evitar este sentimiento buscando soluciones
+3121,Amenaza,miedo,No debe generar miedo
+3122,Amenaza,dificultad,Dificultad por enfrentar 
+3123,Amenaza,barrera,Barrera para cumplir mis objetivos 
+3124,Amenaza,no real,Existen muchas amenazas que no son reales
+3125,Destreza,habilidades,Habilida 
+3126,Destreza,capacidad,Capacidad relizar algo bien
+3127,Destreza,innato,Algunas se adquiren otras son inatas 
+3128,Destreza,futuro,Determinan el futuro de una persona
+3129,Destreza,envidia,Aveces son envidiadas
+3130,Destreza,desperdicio,Aveces son desperdiciadas 
+3131,Pensamiento,reflexión,Reflexion
+3132,Pensamiento,filosofía,Filosofia 
+3133,Pensamiento,bien/mal,Puede ser bueno o malo
+3134,Pensamiento,herramienta,Principal Herramienta del ser humano
+3135,Pensamiento,análisis,Metodo de analisis 
+3136,Seguridad,confort,Zona de confort
+3137,Seguridad,tranquilidad,Tranquilidad
+3138,Seguridad,estabilidad,Estabilidad
+3139,Seguridad,pago,Se pude pagar por ella
+3140,Seguridad,esperanza,La seguridad genera esperanza 
+3141,Seguridad,medición,se puede medir 
+3142,Seguridad,bien,es un bien 
+3143,Seguridad,derechos,es un derecho 
+3144,Seguridad,respeto,debe ser respetada
+3145,Agradecimiento,oportunidad,Oportunidad
+3146,Agradecimiento,necesario,Necesario 
+3147,Agradecimiento,aprendizaje,"Quien no agradece, no aprende "
+3148,Agradecimiento,habilidades,es una habilidad 
+3149,Agradecimiento,enseñanza,Debe ser enseñado
+3150,Peligro,inseguridad,Inseguridad
+3151,Peligro,límite,Limite
+3152,Peligro,amenaza,Amenaza 
+3153,Peligro,atención,Se debre enfrentar con atencion 
+3154,Peligro,adrenalina,Produce adrenalina
+3155,Peligro,adicción,Puede ser adictivo
+3156,Esperanza,fe,Fe
+3157,Esperanza,racional,Puede terner fundamentos racionales o no
+3158,Esperanza,esperar,"Esperar lo mejor, estar preparado para lo peor "
+3159,Esperanza,objetivo/subjetivo,Puede ser objetiva y subjetiva 
+3160,Esperanza,matemáticas,objetivamen puede ser un termino matematico que tiene un valor exacto
+3161,Esperanza,multiple,Subjetivamente tiene multiples aplicaciones 
+3162,Plan,proyecto,Proyecto
+3163,Plan,búsqueda,Busca minimizar el peligro y las amenazas 
+3164,Plan,búsqueda,Busca asegurar resultados esperados
+3165,Plan,organización ,se organiza según destresas o habilidades 
+3166,Plan,pensamiento,Se logra a traves del penamiento
+3167,Plan,tareas,ordena tareas
+3168,Ansiedad,impaciencia,Impaciencia 
+3169,Ansiedad,deber regular,Se debe regular
+3170,Ansiedad,a favor,Se puede usar a favor de quien la padece 
+3171,Ansiedad,en contra,Generalmente juega en contra
+3172,Ansiedad,mal,es un mal silencioso 
+3173,Acuerdo,trato,Trato
+3174,Acuerdo,formal/informal,Hay informales y formales
+3175,Acuerdo,legal,Los formales se deben legalizar 
+3176,Acuerdo,respeto,El respeto por los informales determina a una persona 
+3177,Acuerdo,diario ,Se llevan a cabo todos los dias
+3178,Acuerdo,formal/informal,Los formales pueden tener grandes consecuencias 
+3179,Acuerdo,interno/externo,Puede ser interno a una persona o externo a esta
+3180,Honestidad,sinceridad,ser sincero
+3181,Honestidad,leal,lealtad
+3182,Honestidad,transparencia,transparencia
+3183,Honestidad,respeto,respeto
+3184,Agradecimiento,gratitud,gratitud
+3185,Agradecimiento,felicidad,felicidad
+3186,Agradecimiento,tranquilidad,tranquilidad
+3187,Razón,lógica,lógica
+3188,Razón,humano,lo posee el ser humano
+3189,Razón,solución,resolución de problemas
+3190,Razón,no instinto,contrario al instinto
+3191,Razón,pensamiento,pensamiento racional
+3192,Desesperación,agobio,agobio
+3193,Desesperación,impotencia,impotencia
+3194,Desesperación,encierro,encerrado
+3195,Desesperación,no salida,sin salida
+3196,Desesperación,angustia,angustia
+3197,Desesperación,no solución,sin solución aparente
+3198,Verdad,seguridad,seguridad de un hecho
+3199,Verdad,estamento,estamento
+3200,Verdad,veracidad,algo verídico
+3201,Verdad,afirmación,afirmación de algo
+3202,Verdad,cuastionamiento,puede ser cuestionado
+3203,Ganancia,aumento,aumento de algo
+3204,Ganancia,suma,suma
+3205,Ganancia,mayor cantidad,más cantidad
+3206,Compasión,lamento,lamento
+3207,Compasión,empatía,empatía
+3208,Compasión,comprensión,comprensión de un suceso malo en otro.
+3209,Compasión,tristeza,tristeza por el otro
+3210,Peligro,amenaza,amenaza
+3211,Peligro,miedo,miedo
+3212,Peligro,inestabilidad,situación inestable
+3213,Peligro,riesgo,riesgo
+3214,Peligro,desequilibrio,desequilibrio del entorno
+3215,Ansiedad,incapacidad,incapacidad de espera a un suceso
+3216,Ansiedad,nerviosismo,nerviosismo
+3217,Ansiedad,anhelo,anhelo de adelantar el tiempo
+3218,Ansiedad,impaciencia,impaciente
+3219,Sugerencia,opinión,opinión
+3220,Sugerencia,crítica,crítica constructiva
+3221,Sugerencia,positivo,aporte positivo
+3222,Sugerencia,idea,nueva idea
+3223,Amenaza,riesgo,riesgo
+3224,Amenaza,peligro,exposición a un peligro
+3225,Amenaza,cuidado,algo de lo que debemos cuidarnos
+3226,Amenaza,precaución,tener precaución 
+3227,Destreza,habilidades,habilidad
+3228,Destreza,bien,ser bueno en algo
+3229,Pensamiento,idea,idea sobre algo
+3230,Pensamiento,concepto,concepto
+3231,Seguridad,protección,protección
+3232,Seguridad,a salvo,estar a salvo
+3233,Seguridad,tranquilidad,me brinda tranquilidad
+3234,Agradecimiento,gratitud,gracias
+3235,Agradecimiento,satisfacción,estar satisfecho con algo
+3236,Agradecimiento,otro/alguien,se les da a alguien
+3237,Agradecimiento,virtud,es una virtud poder realizarlo
+3238,Peligro,amenaza,amenaza
+3239,Peligro,riesgo,riesgo
+3240,Peligro,sufrimiento,puedes sufrirlo si no te cuidas
+3241,Peligro,exposición,aunque no quieras siempre estas expuesto
+3242,Esperanza,fe,fe
+3243,Esperanza,creencia,creer en algo
+3244,Esperanza,religión,los religiosos creen en ella
+3245,Plan,idea,una idea en caso se que algo no salga bien
+3246,Plan,opción,opción
+3247,Plan,sugerencia,sugerencia
+3248,Ansiedad,nerviosismo,nervio
+3249,Ansiedad,comer,cuando se siente se puede comer mucho
+3250,Ansiedad,trastorno,trastorno psicológico
+3251,Ansiedad,trauma,se siente cuando se expone un evento traumático
+3252,Ansiedad,angustia,angustia 
+3253,Acuerdo,dos o más partes,dos o más partes pueden llegar a él
+3254,Acuerdo,satisfacción,idea que satisfaga a los participantes
+3255,Acuerdo,trato,un trato
+3256,Acuerdo,conformidad,se llega a una conformidad
+3257,Acuerdo,tregua,tregua
+3258,Esperanza,creencia,creer que algo puede pasar
+3259,Esperanza,lo último que se pierde,lo último que se pierde
+3260,Esperanza,razonamiento,una razón para seguir viviendo
+3261,Peligro,daño,una situación en que puedes salir dañado
+3262,Peligro,alarma,situación alarmante
+3263,Peligro,riesgo,es un factor de riesgo
+3264,Felicidad,ánimo,es un estado de ánimo
+3265,Felicidad,alegría,alegría un poco más constante
+3266,Felicidad,llanto,se puede llorar por esto
+3267,Felicidad,agradable,un sentimiento agradable
+3268,Destreza,desempeño,desempeño en una tarea
+3269,Destreza,forma,la forma en la que afrontas algo
+3270,Destreza,habilidades,el uso de tus habilidades
+3271,Destreza,desarrollo,desarrollo
+3272,Excusa,agravante,algo que agrava las faltas
+3273,Excusa,mentira,puede ser una mentira
+3274,Excusa,razonamiento,una razón
+3275,Excusa,causa,el porque de una acción
+3276,Honestidad,atributo,es un atributo
+3277,Honestidad,verdad,se dice la verdad
+3278,Honestidad,sinceridad,sinceridad
+3279,Agradecimiento,gratitud,situación en donde se da las gracias
+3280,Agradecimiento,lleno,sentirse lleno 
+3281,Agradecimiento,regalo,viene luego del recibimiento de un regalo (espiritual o material)
+3282,Seguridad,factor,es un factor 
+3283,Seguridad,protección,situación de protección
+3284,Seguridad,guardias,existen guardias que cubren esto
+3285,Seguridad,policias,"pueden haber policías, bomberos, ambulancia cubriendo esto"
+3286,Pensamiento,conciencia,es cuando la consciencia habla
+3287,Pensamiento,conciencia,algo que nunca para de pasar mientras estas consciente
+3288,Pensamiento,cerebro,pasa en el cerebro
+3289,Pensamiento,humano,sólo lo hacen los seres humanos
+3290,Pensamiento,humano,es la diferencia entre un humano y un animal
+3291,Oportunidad,chance,chance sobre algo
+3292,Oportunidad,aprovechar,algo que se debe aprovechar
+3293,Oportunidad,único,no pasa dos veces
+3294,Felicidad,sentimiento,es un sentimiento 
+3295,Felicidad,sonrisa,generalmente se le atribuye a la gente que se encuentra sonriente
+3296,Felicidad,positivo,es algo positivo 
+3297,Felicidad,todos,Todos intentamos sentirnos así
+3298,Obsesión,atención,algo que centra de manera total nuestra atención 
+3299,Obsesión,atención,mantiene nuestra atención sobre lo normal 
+3300,Obsesión,celos,Los celos pueden ser una manisfestación de esto
+3301,Obsesión,trastorno,Existen trastornos relacionados con este concepto 
+3302,Definición,significado,vía por la cual se busca el significado de algo 
+3303,Definición,diccionario,Diccionario 
+3304,Definición,enciclopedia,Enciclopedia 
+3305,Definición,información,entrega información clave de un concepto
+3306,Definición,búsqueda,"Cuando se desconce, la buscamos "
+3307,Compasión,sentimiento,sentimiento 
+3308,Compasión,lástima,lástima 
+3309,Compasión,benelovencia ,benelovencia 
+3310,Compasión,por abuelos,los abuelos generalmente ocasionan esto en las personas 
+3311,Compasión,indefensión,o la gente indefensa
+3312,Ansiedad,trastorno,También muchos trastornos se desarrolan por esto 
+3313,Ansiedad,tratamiento contra,fármacos pueden controlarla
+3314,Ansiedad,duradera,sensación duradera
+3315,Ansiedad,deseperación,es algo desesperante
+3316,Ansiedad,descontrol,va más allá del control de la persona
+3317,Ansiedad,suceso,generalmente un suceso la provoca
+3318,Ansiedad,ganar,ganas de que algo sucesa con muchas ganas
+3319,Desesperación,intranquilidad,sentimiento intranquilizante 
+3320,Desesperación,indecisión,provocado no por desición de la persona
+3321,Desesperación,intranquilidad,es cuando de pierde la tranquilidad
+3322,Peligro,daño,Algo que puede hacer daño
+3323,Peligro,cuidado,Hay que tener cuidado 
+3324,Peligro,evitación,El humnao tiende siempre a evitarlo
+3325,Peligro,no seguridad,antónimo de seguridad
+3326,Esperanza,sentimiento,Sentimiento de anhelo 
+3327,Esperanza,creencia,"Cuando las cosas están mal, uno tiende a sentirlo "
+3328,Esperanza,bien,se relaciona con que algo bueno pronto sucederá
+3329,Esperanza,crítica,"En situaciones críticas, es lo unico que nos queda tener"
+3330,Esperanza,tranquilidad,nos entrega tranquilidad en ciertas ocaciones
+3331,Plan,organización,Se utiliza para organizar algo
+3332,Plan,positivo/negativo,pueden tener fines positivos o negativos 
+3333,Plan,facilidad,facilitan el actuar 
+3334,Decisión,conclusión,Es algo concluyente 
+3335,Decisión,definición,"siempre definen algo, no conceptualmente"
+3336,Decisión,determinación,determina una situación 
+3337,Decisión,elección,"Si se hacen malas elecciones de sto, podemos sufrir consecuencias "
+3338,Decisión,elección,buenas elecciones de esto nos hace sentirnos plenos 
+3339,Decisión,sentimientos,Deben ser tomas en base a nuestros verdaderos sentimientos 
+3340,Agradecimiento,acción,Accion de una persona tras recibir algo
+3341,Agradecimiento,sentimiento,Sentimiento al recibir un presente o favor
+3342,Agradecimiento,retribución,Amerita retribucion
+3343,Agradecimiento,aprecio,Se aprecia tras ser recibido
+3344,Agradecimiento,corazón,Se realiza de corazón
+3345,Agradecimiento,felicidad,la accion previa trajo felicidad y por eso se realiza
+3346,Pensamiento,mente,Involucra la mente
+3347,Pensamiento,mente,Proviene de una acción que realiza la mente
+3348,Pensamiento,idea,Suele llevar a una idea
+3349,Pensamiento,duda,Puede traer dudas
+3350,Pensamiento,cerebro,Ejercita al cerebro
+3351,Pensamiento,mente,Se desarrolla la mente a través de esta herramienta
+3352,Culpa,mal,Sentimiento que surge al hecer algo mal
+3353,Culpa,conciencia,Aparece sólo si se esta conciente que se hizo algo mal
+3354,Culpa,perjucio,Surge cuando se perjudica a otros
+3355,Culpa,reparación ,Se suelen realizar acciones para repararlo
+3356,Culpa,enmendar,Intenta enmendarse
+3357,Culpa,sanción,Es sancionable
+3358,Culpa,castigo,Puede llevar a castigos
+3359,Honestidad,humano,Cualidad humana
+3360,Honestidad,convivencia,sirve para mejorar la convivencia
+3361,Honestidad,todos,Se asume que todos la poseen
+3362,Honestidad,perjudicial,Actuar en contra de ella puede resultar perjudicial
+3363,Honestidad,no desconfianza,Una persona carente de esto genera desconfianza
+3364,Honestidad,transparencia,se es transparente
+3365,Seguridad,cualidad,Cualidad 
+3366,Seguridad,positivo,Se asume positiva
+3367,Seguridad,éxito,Atrae el éxito
+3368,Seguridad,vida cotidiana,Se busca obtener en la vida cotideana
+3369,Seguridad,brindar,Se busca brindarla
+3370,Seguridad,estado,Los goriernos necesitan entregar esta cualidad
+3371,Amenaza,angustia,su recepción genera angustia
+3372,Amenaza,daño,busca hacer daño
+3373,Amenaza,venganza,se realiza con el objetivo de venganza
+3374,Amenaza,advertencia,se ve como advertencia o ultimatum
+3375,Amenaza,delincuencia,los delincuentes suelen usarla
+3376,Oportunidad,entregar,se le puede entregar a alguien bajo la premisa que cumpla
+3377,Oportunidad,mantenerlas,el afectado debe realizar acciones para mantenerla
+3378,Oportunidad,acuerdo,acuardo implicito entre personas
+3379,Peligro,advertencia,acompañado de una advertencia
+3380,Peligro,daño,provoca daño
+3381,Peligro,evitación,se suele evitar
+3382,Peligro,disminución,las construcciones son las que más trabajan para disminuirlo
+3383,Peligro,guerras,las guerras son las que mas lo poseen
+3384,Peligro,sensación,a veces se asocia con una sensacion
+3385,Destreza,habilidades,se tiene al ser habil
+3386,Destreza,bien,bueno para algo
+3387,Destreza,práctica,se logra con práctica y trabajo duro
+3388,Plan,procedimiento,procedimiento al que se llaga para lograr algo
+3389,Plan,análisis,amerita análisis para obtenerlo
+3390,Plan,acción,involucra un conjunto de acciones
+3391,Plan,objetivos,busca un objetivo
+3392,Plan,muchos,suele involucrar a muchas personas
+3393,Plan,completar,su completacion lleva a satisfaccion
+3394,Definición,significado,significado
+3395,Definición,razonamiento,razon
+3396,Definición,explicación,su funcion es explicar conceptos
+3397,Definición,detallar,detallar algo
+3398,Definición,académico,usado con frecuencia en pruebas academicas
+3399,Definición,glosario,cada libro posee un glosario de esta
+3400,Definición,comprensión,nos ayuda a comprender cosas que no sabemos
+3401,Honestidad,no mentir,quien no miente
+3402,Honestidad,verdad,verdad
+3403,Honestidad,pureza,quien es puro hablando
+3404,Honestidad,no mentir,contrario a mentira
+3405,Honestidad,escasez,escasea hoy en dia
+3406,Honestidad,verdad,verdad
+3407,Culpa,mal,sentimiento que nos atormenta cuando realizamos una mala accion
+3408,Culpa,conciencia,a menudo nos afecta si no hay una conciencia limpia
+3409,Culpa,ánimo,puede afectar el estado de animo
+3410,Culpa,leyes,usado en leyes para determinar sentencia de una persona
+3411,Culpa,propensión,alguna gente es mas propensa a poseerla
+3412,Ganancia,utilidad,utilidades
+3413,Ganancia,dinero,dinero extra
+3414,Ganancia,ventaja,ventaja sobre una situacion
+3415,Ganancia,fortuna,fortuna
+3416,Ganancia,ingreso,ingresos sobre gastos
+3417,Ganancia,vida laboral,la gente espera obtenerla en su vida laboral
+3418,Razón,lógica,logica
+3419,Razón,explicación,sirve para explicar cosas a traves del pensamiento racional
+3420,Razón,control,la gente intenta tener control sobre esto
+3421,Razón,discusión,gente en discusiones quiere poseerla
+3422,Razón,matemáticas,usado con frecuencia en matematicas 
+3423,Razón,leyes,se puede encontrar en el mundo de las leyes
+3424,Plan,idea,sirve para tener una idea de accion a realizar
+3425,Plan,mapa,mapa de ideas
+3426,Plan,acción,planificacion de acciones
+3427,Plan,futuro,con frencuencia usado para tener una vision de proyecto a futuro
+3428,Plan,telefonía,compañias telefonicas suelen ofrecerlos
+3429,Desesperación,presión,sentimiento que surge al sentirnos presionados
+3430,Desesperación,obseción,muchas personas sufren de esto cuando se encuentran deseosas de algo
+3431,Desesperación,agobio,agoviado
+3432,Desesperación,locura,puede llevar a la locura
+3433,Desesperación,crisis,crisis
+3434,Desesperación,sociedad,sociedades enteras han pasado por esto
+3435,Verdad,relación,sirve para mantener relaciones sociales estables
+3436,Verdad,omisible,se omite en muchos casos 
+3437,Verdad,conveniencia,puede ser alterada para conveniencia
+3438,Acuerdo,dos o más partes,involucra a 2 o mas personas
+3439,Acuerdo,negocios,usado con frecuencia en negocios
+3440,Acuerdo,común,modo de usar la razon para lograr un interes en comun
+3441,Acuerdo,conveniencia,aveces usado por conveniencia de unos
+3442,Acuerdo,perjuicio,puede llegar a perjudicar a alguien
+3443,Esperanza,lo último que se pierde,lo ultimo que se pierde
+3444,Esperanza,aferrar,la gente se aferrra a ella en momentos de crisis
+3445,Esperanza,deseperación,gente recurre a ella en momentos de desesperacion
+3446,Esperanza,Dios,dios nos la brinda
+3447,Esperanza,religión,personas religiosas suelen poseerla con mayor frecuencia que las que no
+3448,Esperanza,fin semestre,todo alumno al final del semestre
+3449,Definición,descripción,descripcion
+3450,Definición,caracterización,caracterizacion
+3451,Definición,visualización,visualizar
+3452,Definición,ejemplo,ejemplificar
+3453,Definición,mostrar,mostrar el todo de un elemento
+3454,Definición,rasgos,recapitular los rasgos escenciales
+3455,Definición,estructura,estructurar
+3456,Definición,amor,armar
+3457,Definición,constructivo,construir
+3458,Honestidad,pureza,pureza
+3459,Honestidad,claridad,claridad
+3460,Honestidad,sinceridad,sinceridad
+3461,Honestidad,transparencia,transparencia
+3462,Honestidad,leal,leal
+3463,Honestidad,compromiso,compromiso
+3464,Honestidad,relación,relacion
+3465,Sugerencia,aviso,aviso
+3466,Sugerencia,ayuda,ayuda
+3467,Sugerencia,concejo,consejo
+3468,Sugerencia,advertencia,advertencia
+3469,Sugerencia,orientación,orientacion
+3470,Sugerencia,dirrecionar,direccionar
+3471,Sugerencia,encaminar,encaminar
+3472,Sugerencia,enseñanza,enseñar
+3473,Sugerencia,visiones,ver visiones desde otros puntos de vistas
+3474,Culpa,malhechor,malhechor
+3475,Culpa,sentimiento,sentimiento
+3476,Culpa,pesame,pesame mental
+3477,Culpa,incomodidad,incomodidad
+3478,Culpa,malestar,malestar
+3479,Culpa,mal,maldad
+3480,Culpa,dolo,dolo o mala intencion
+3481,Culpa,reflexión,reflexion sobre un mal acto
+3482,Culpa,conciencia,pesame de la conciencia
+3483,Esperanza,expectativa,expectativas
+3484,Esperanza,augurio,augurio
+3485,Esperanza,bienestar,bienestar
+3486,Esperanza,futuro,futuro
+3487,Esperanza,felicidad,felicidad
+3488,Esperanza,auge,auge
+3489,Esperanza,mejorar,mejora
+3490,Esperanza,bien,vienen tiempos buenos
+3491,Éxito,satisfacción,satisfecho
+3492,Éxito,poder,poder
+3493,Éxito,conocimiento,conocimiento
+3494,Éxito,sabiduría,sabiduria
+3495,Éxito,completitud,completitud
+3496,Éxito,competencia,competente
+3497,Éxito,estabilidad,estabilidad
+3498,Éxito,calma,calma mental
+3499,Éxito,habilidades,habilidad mental
+3500,Decisión,disyunción,diyuntiva
+3501,Decisión,análisis,analisis
+3502,Decisión,visión,vision
+3503,Decisión,elección,eleccion
+3504,Decisión,opción,apostar por una opcion
+3505,Decisión,incertidumbre,incertidumbre en las opciones
+3506,Decisión,dirrecionar,direccionar
+3507,Decisión,posición,posicionar
+3508,Acuerdo,pacto,pacto
+3509,Acuerdo,trato,trato
+3510,Acuerdo,compromiso,compromiso
+3511,Acuerdo,unión,union
+3512,Acuerdo,amistad,amistad
+3513,Acuerdo,proyección,proyeccion
+3514,Acuerdo,estabilidad,estabilidad
+3515,Acuerdo,colaborar,colaborar
+3516,Desesperación,malestar,malestar mental
+3517,Desesperación,inestabilidad,inestabilidad
+3518,Desesperación,desequilibrio,desequilibrio
+3519,Desesperación,inequidad,inequidad
+3520,Desesperación,impaciencia,impacientar
+3521,Desesperación,irritación,irritación
+3522,Desesperación,enojo,enojo
+3523,Obligación,forzar,forzar
+3524,Obligación,compromiso,comprometer
+3525,Obligación,influencia,influir
+3526,Obligación,presión,presionar
+3527,Obligación,relación,relacionar
+3528,Obligación,empujar,empujar
+3529,Obligación,exigencia,exigir
+3530,Obligación,constricción,constreñir
+3531,Felicidad,alegría,alegria
+3532,Felicidad,sonrisa,sonrisa 
+3533,Felicidad,nacimiento,en un nacimiento 
+3534,Felicidad,emoción,emocion 
+3535,Felicidad,celebración,en una celebracion
+3536,Felicidad,risa,risa
+3537,Felicidad,no problemas,sin problemas 
+3538,Felicidad,música,musica
+3539,Felicidad,estado emocional,estado
+3540,Desesperación,angustia,angustia
+3541,Desesperación,angustia,ansiedad
+3542,Desesperación,adrenalina,adrenalina 
+3543,Desesperación,apuro,cuando se esta apurado y te toca una larga fila 
+3544,Desesperación,incontrolable,cuando no puedes controla algo
+3545,Desesperación,miedo,miedo 
+3546,Desesperación,emoción,emocion
+3547,Desesperación,encierro,encerrado en una pieza sin puertas ni ventanas 
+3548,Desesperación,intranquilidad,no pensar tranquilamente 
+3549,Agradecimiento,regalo,cuando te dan regalos uno lo hace 
+3550,Agradecimiento,favor,cuando te hacen un favor uno lo dice 
+3551,Agradecimiento,persona,esta en cada acto de las personas 
+3552,Agradecimiento,persona,se le dice a una persona
+3553,Agradecimiento,felicidad,cuando estas feliz con lo que recibes 
+3554,Agradecimiento,felicidad,cuando estas feliz con lo que te hicieron 
+3555,Agradecimiento,entrega,cuando uno entrega cosas a cambio
+3556,Definición,concepto,concepto de algo
+3557,Definición,descripción,descriscripcion de algo
+3558,Definición,explicación,cuando le explicas a alguien una cosa 
+3559,Definición,libros,esta en los libros 
+3560,Definición,caracterización,caracteristicas de algo
+3561,Definición,explicación,aparece una palabra con dos puntos y una explicacion
+3562,Definición,TV,tambien se puede ver en la calidad de las teles 
+3563,Definición,concreto,cuando algo es concreto en los bordes 
+3564,Plan,complot,complot 
+3565,Plan,reunión,reunion
+3566,Plan,dieta,uno lo hace para hacer dieta 
+3567,Plan,guerras,los militares lo hacen en las guerras 
+3568,Plan,estrategia,estrategia 
+3569,Plan,objetivos,objetivo de un curso
+3570,Plan,secreto,puede ser secreto
+3571,Plan,dos o más partes,se hace de a 2 o mas personas 
+3572,Plan,organización,organización 
+3573,Plan,meta,se llega a una meta a partir de este 
+3574,Decisión,pensamiento,pensamiento 
+3575,Decisión,punto de vista,punto de vista u opinion
+3576,Decisión,elección,cuando una persona elige algo 
+3577,Decisión,personal,es algo de cada persona 
+3578,Decisión,todos,todos podemos tener esta pero pueden ser iguales o distintas 
+3579,Decisión,todos los diás,lo haces todos los dias 
+3580,Decisión,ultimátum,es un ultimatum
+3581,Decisión,cambio,cambia la realidad de antes de hacerlo y la de despues 
+3582,Oportunidad,opción,opcion
+3583,Oportunidad,gratitud,las personas se sienten agradecidas gracias a esto
+3584,Oportunidad,trabajo,al buscar trabajo uno las busca 
+3585,Oportunidad,opción,al buscar una mejor opcion uno la busca 
+3586,Oportunidad,viajar,viajar 
+3587,Oportunidad,tomar/dejar,hay personas que la toman y otras que no 
+3588,Oportunidad,ganar,"cuando la tomas, ganas muchas cosas "
+3589,Oportunidad,académico,el poder estudiar en una universidad 
+3590,Oportunidad,necesario,algo que aparece cuando lo necesitas 
+3591,Éxito,máximo,maxima expresion
+3592,Éxito,culmine,culmine
+3593,Éxito,felicidad,felicidad 
+3594,Éxito,objetivos,cuando cumples tus objetivos
+3595,Éxito,final,cuando llegas bien al final de algo 
+3596,Éxito,inteligencia,cuando alguien es inteligente 
+3597,Éxito,ganar,cuando ganas un juego 
+3598,Obligación,deber,deber 
+3599,Obligación,prohibición,prohibicion
+3600,Obligación,hacer,cuando se tiene que hacer algo
+3601,Obligación,leyes,es bajo la ley 
+3602,Obligación,autoridad,las autoridades las dan 
+3603,Obligación,académico,cuando estudias para una prueba 
+3604,Obligación,trabajo,trabajo
+3605,Compasión,bien,bueno
+3606,Compasión,ayuda,las personas que ayudan a los pobre lo tienen 
+3607,Compasión,bondad,bondadoso
+3608,Compasión,entendimiento,entender a una personas 
+3609,Compasión,empatía,empatia 
+3610,Compasión,tranquilidad,tranquilo
+3611,Compasión,pasivo,pasivo
+3612,Compasión,perdón,cuando nos perdonan 
+3613,Compasión,no agobiar,no se agobia a las persona 
+3614,Amenaza,peligro,"peligro, riesgo, dañino, herida, muerte, asesino, daños, virus, enfermedad, corrupción"
+3615,Amenaza,riesgo,riesgo
+3616,Amenaza,daño,dañino
+3617,Amenaza,herida,herida
+3618,Amenaza,muerte,muerte
+3619,Amenaza,asesino,asesino
+3620,Amenaza,daño,daños
+3621,Amenaza,virus,virus
+3622,Amenaza,enfermedad,enfermedad
+3623,Amenaza,corrupción,corrupción
+3624,Destreza,habilidades,habilidad
+3625,Destreza,capacidad,capacidad
+3626,Destreza,aptitud,aptitud para hacer algo
+3627,Destreza,arte,arte de poder hacer algo 
+3628,Destreza,capacidad,capacidades manuales
+3629,Destreza,ingenio,ingenio
+3630,Destreza,creatividad,creatividad
+3631,Pensamiento,razonamiento,razonamiento
+3632,Pensamiento,crítica,capacidad crítica
+3633,Pensamiento,cultura,culturización
+3634,Pensamiento,progereso,progresar
+3635,Pensamiento,sabiduría,sabios
+3636,Pensamiento,pensamiento,pensadores
+3637,Pensamiento,grecia,originado en grecia
+3638,Pensamiento,inteligencia,genera inteligencia
+3639,Pensamiento,reflexión,reflexión
+3640,Pensamiento,poder,elemento sumamente poderoso
+3641,Seguridad,confianza,confianza
+3642,Seguridad,tranquilidad,tranquilidad
+3643,Seguridad,barrera,barreras de protección
+3644,Seguridad,fortaleza,fortaleza
+3645,Seguridad,no miedo,disminuye el miedo
+3646,Seguridad,admiración,es admirada por las personas
+3647,Seguridad,no duda,no deja espacio a la duda
+3648,Seguridad,herramienta,poderosa herramiento para convencer a otras personas
+3649,Seguridad,firmeza,firmeza
+3650,Seguridad,alarma,alarmas anti robo
+3651,Agradecimiento,gratitud,gratificación
+3652,Agradecimiento,favor,se produce luego de hacer un favor
+3653,Agradecimiento,cortesía,cortesía
+3654,Agradecimiento,deuda,una persona queda en deuda con otra
+3655,Agradecimiento,aprecio,es una señal de aprecio por lo que el otro hizo por uno mismo
+3656,Agradecimiento,felicidad,produce felicidad
+3657,Agradecimiento,palabra,se representa generalmente solo por la palabra
+3658,Agradecimiento,desinteresadamente,acciones desinteresadas
+3659,Agradecimiento,empatía,empatía
+3660,Peligro,riesgo,riesgo
+3661,Peligro,inseguridad,inseguridad
+3662,Peligro,daño,daño
+3663,Peligro,veneno,veneno
+3664,Peligro,advertencia,advertencia
+3665,Peligro,precipicio,precipicio
+3666,Peligro,inseguridad,no es compatible con seguridad
+3667,Peligro,miedo,miedo
+3668,Peligro,muerte,puede llevar a la muerte
+3669,Peligro,grave,puede tener graves consecuencias
+3670,Esperanza,luz,Luz
+3671,Esperanza,felicidad,Felicidad
+3672,Esperanza,paz,Paz
+3673,Esperanza,blanco,blancura
+3674,Esperanza,solución,solución de un problema
+3675,Esperanza,lucha,permite luchar hasta el final
+3676,Esperanza,posibilidad,posibilidad de hacer algo
+3677,Esperanza,motivación,motivación
+3678,Esperanza,ilusión,ilusión
+3679,Esperanza,fantasía,fantasía
+3680,Plan,estrategia,estrategia
+3681,Plan,táctica,táctica
+3682,Plan,ingenio,ingenio
+3683,Plan,grupal,por lo general es grupal
+3684,Plan,complejidad,complejidad
+3685,Plan,militar,sus inicios fueron con fines militares
+3686,Plan,consecuencias,importantes consecuencias
+3687,Plan,organización,permite organizarse
+3688,Plan,búsqueda,busca un beneficio 
+3689,Plan,hacer,indica qué es lo que vamos a hacer
+3690,Ansiedad,impaciencia,impaciencia
+3691,Ansiedad,ganar,ganas de hacer algo
+3692,Ansiedad,nerviosismo,nervios
+3693,Ansiedad,sudor,produce sudoración en las manos
+3694,Ansiedad,descontrol,descontrol
+3695,Ansiedad,descontrol,lleva a acciones descontroladas
+3696,Ansiedad,negativo,es algo siempre negativo
+3697,Ansiedad,malestar,produce un malestar
+3698,Ansiedad,deseo,deseo de adelantar el tiempo
+3699,Acuerdo,negocios,negociación
+3700,Acuerdo,beneficios,conlleva a un beneficio mutuo
+3701,Acuerdo,progreso,permite progresar
+3702,Acuerdo,discusión,involucra una discusión previa
+3703,Acuerdo,punto medio,punto de equilibrio
+3704,Acuerdo,dificultad,es muy difícil de lograr
+3705,Acuerdo,dos o más partes,puede ser entre 2 o muchas partes
+3706,Acuerdo,resolver conflicto,forma de resolver conflictos
+3707,Acuerdo,trato,trato
+3708,Acuerdo,respeto,se deben respetar
+3709,Plan,premeditación,premeditación
+3710,Plan,organización,organización
+3711,Plan,meticuloso,meticuloso
+3712,Plan,cálculo,calculado
+3713,Plan,certero,certero
+3714,Plan,coordinación,permite la coordinación interna
+3715,Plan,organización,ordenar ideas
+3716,Plan,cronológico,cronológico
+3717,Plan,objetivos,objetivos claros
+3718,Acuerdo,entendimiento,entendimiento
+3719,Acuerdo,comunicación,comunicación
+3720,Acuerdo,aceptación,requiere la aceptación de las partes
+3721,Acuerdo,memoria,se almacena en la memoria
+3722,Acuerdo,útil,útil frente a lo ambiguo
+3723,Acuerdo,modificable ,Se puede modificar en el futuro
+3724,Acuerdo,confianza,Código de confianza
+3725,Excusa,injuntificada,Disculpa injustificada
+3726,Excusa,barrera,Barrera del ser
+3727,Excusa,pretexto,Pretexto
+3728,Excusa,no confianza,Pérdida de confianza
+3729,Excusa,no credibilidad,Poca credibilidad
+3730,Excusa,apelación,Apela a los sentimientos
+3731,Excusa,innecesario,Innecesaria frente a la responsabilidad
+3732,Excusa,irresponsabilidad,Motivo frente a irresponsabilidad
+3733,Excusa,no hacer,Se opone al hacer
+3734,Excusa,perdón,Busca el perdón
+3735,Peligro,amenaza,Amenaza
+3736,Peligro,miedo,Miedo a ser dañado
+3737,Peligro,defensa,Provoca comportamiento defensivo
+3738,Peligro,alerta,Induce estado de alerta
+3739,Peligro,propensión,Algunos se preocupan más que otros
+3740,Peligro,inseguridad,Opuesto a la seguridad
+3741,Peligro,atención,Nos enfoca totalmente en el
+3742,Peligro,adrenalina,Sube la adrenalina
+3743,Peligro,repulsión,Produce repulsión
+3744,Peligro,minimizar,Se busca minimizar
+3745,Pensamiento,idea,Procesamiento de ideas
+3746,Pensamiento,pasado/futuro,Se enmarca en pasado o futuro
+3747,Pensamiento,alejamiento,Nos aleja del presente
+3748,Pensamiento,cuastionamiento,Cuestionamiento
+3749,Pensamiento,reflexión,Reflexión
+3750,Pensamiento,razonamiento,Razonamiento lógico
+3751,Pensamiento,manipulación,Susceptible a sufrir manipulación
+3752,Pensamiento,entendimiento,Cultivable desde el entendimiento
+3753,Pensamiento,influencia,Influenciable por la personalidad
+3754,Pensamiento,conciencia,Cadenas de la conciencia
+3755,Definición,explicación,Explicación 
+3756,Definición,esencia,Relata la esencia
+3757,Definición,simplificación,Busca la simpleza e universalidad
+3758,Definición,detallar,Detalla el significado
+3759,Definición,objetivo,Intenta objetivizar
+3760,Definición,referencia,Referencia
+3761,Definición,credibilidad,Requiere credibilidad
+3762,Felicidad,idealización,Estado idealizado del equilibrio
+3763,Felicidad,positivo,Tiende a asociarse con el positivismo
+3764,Felicidad,escudo,Escuda frente a pensamientos dañinos
+3765,Felicidad,energía desbordante,Energía desbordante
+3766,Felicidad,optimismo,Optimismo descontrolado
+3767,Felicidad,aceptación,Aceptación al misterio
+3768,Felicidad,confianza,Confianza
+3769,Felicidad,ligrereza,Ligereza
+3770,Felicidad,motivación,Motivación
+3771,Decisión,inflexión,Punto de inflexión
+3772,Decisión,elección,Elección
+3773,Decisión,prioridad,Prioridad
+3774,Decisión,futuro,Define el futuro
+3775,Decisión,arrepentimiento,Suele generar arrepentimiento
+3776,Decisión,meditación,Debe meditarse 
+3777,Decisión,repercusiones,Repercute 
+3778,Decisión,elección,Elige un camino
+3779,Culpa,emoción,Emoción consecuente a hacer daño
+3780,Culpa,ahogamiento,Nos ahoga
+3781,Culpa,alejamiento,Nos aleja 
+3782,Culpa,vergüenza,Nos sentimos avergonzados
+3783,Culpa,limpiar,Debe limpiarse para superarla
+3784,Culpa,arrepentimiento,Arrepentimiento
+3785,Culpa,post daño,Posterior a experimentar el daño hecho a otro
+3786,Habilidad ,don,Don
+3787,Habilidad ,facilidad,Facilidad
+3788,Habilidad ,repetición,Cultivada con la repetición
+3789,Habilidad ,ventaja,Ventaja 
+3790,Habilidad ,experiencia,Experencia
+3791,Pensamiento,cabeza,Surgen en la cabeza
+3792,Pensamiento,pensamiento,Pensar
+3793,Pensamiento,humano,Toda persona lo tiene
+3794,Pensamiento,abstracción,Es abstracto
+3795,Amenaza,acción,Es una acto
+3796,Amenaza,ultimátum,ultimatum
+3797,Amenaza,peligro,Peligro
+3798,Amenaza,advertencia,Cuando alguien te advierte de algo
+3799,Amenaza,intimidación,Cuando una persona intimida a otra
+3800,Razón,correcto,Cuando alguien esta en lo correcto
+3801,Razón,motivación,Motivo
+3802,Razón,propósito,Propósito
+3803,Razón,inteligencia,Cuando alguien tiene inteligencia
+3804,Razón,capacidad,Es la capacidad de cada persona
+3805,Razón,razonamiento,raciocinio
+3806,Culpa,sentimiento,Es un sentimiento
+3807,Culpa,error,Cuando alguein comete un error
+3808,Culpa,infracción,Infracción
+3809,Agradecimiento,gratitud,Gracias
+3810,Agradecimiento,regalo,Uno envía un saludo o un regalo 
+3811,Agradecimiento,demostración,Es una demostración
+3812,Agradecimiento,gratitud,gratificación
+3813,Agradecimiento,retribución,Cuando alguien retribuye algo
+3814,Obligación,estudiar,Estudiar
+3815,Obligación,madres,Todas las mamás la tienen
+3816,Obligación,trabajo,Cuando uno trabaja
+3817,Obligación,compromiso,Cuando uno se compromete a algo
+3818,Obligación,responsabilidad,Responsabilidad
+3819,Obligación,hacer,Una tarea por hacer
+3820,Verdad,no mentir,Es lo contrario a mentira
+3821,Verdad,valor,Es un valor 
+3822,Verdad,deber,"Uno debe siempre decirla, aunque duela"
+3823,Verdad,bien,Es algo bueno
+3824,Verdad,sinceridad,Cuando una persona es sincera
+3825,Verdad,abstracción,es abstracta
+3826,Verdad,franqueza,Cuando una persona es franca (de franqueza)
+3827,Excusa,librarse,Cuando uno quiere librarse de algo
+3828,Excusa,ausencia,Decir algo para poder aunsentarse a algo en donde me había comprometido
+3829,Excusa,mentira,Es una manera de mentir 
+3830,Excusa,justificación,justificación
+3831,Excusa,pretexto,Cuando uno da un pretexto 
+3832,Peligro,indefensión,Cuando uno esta indefenso
+3833,Peligro,cuidado,Cuidado
+3834,Peligro,riesgo,Riesgo
+3835,Peligro,riesgo,Cuando uno corre riesgo de hacer cierta actividad
+3836,Peligro,desgracia,Cuando ocurre una desgracia
+3837,Peligro,amenaza,Amenaza
+3838,Sugerencia,concejo,Consejo
+3839,Sugerencia,advertencia,Advertencia
+3840,Sugerencia,opinión,Cuando doy mi opinión
+3841,Sugerencia,recomendación,recomendación
+3842,Sugerencia,idea,Idea que da una persona a otra
+3843,Acuerdo,trato,Trato entre dos partes
+3844,Acuerdo,tratado,Tratado entre dos o más partes que beneficia a todos
+3845,Plan,esquema,Esquema mental para lograr una meta
+3846,Plan,idea,Idea que lleva consigo pasos para lograr algo
+3847,Plan,idea,Una idea con un fin
+3848,Ansiedad,afectación,Estado de una persona ante algo que le afecta
+3849,Ansiedad,antojo,Lo que te da cuando tienes antojos de alguna comida o bebida
+3850,Ansiedad,trastorno,Trastorno que puede desembocar en graves adicciones
+3851,Ansiedad,bruxismo,Bruxismo
+3852,Peligro,avertencia,Señales de construcción que prohiben el paso bajo una advertencia
+3853,Peligro,evitación,Lo que usualmente debemos evitar
+3854,Peligro,riesgo,El riesgo de perder todo
+3855,Peligro,emergencia,Estado de emergencia ante una catástrofe
+3856,Peligro,riesgo,Lo que a veces aceptamos sabiendo los riesgos que puede traer
+3857,Seguridad,padres,Lo que sentías al ser un niño en brazos de tus padres
+3858,Seguridad,policias,Lo que brindan los carabineros y los guardias
+3859,Seguridad,plenitud,Estado de plenitud en el que no te sientes bajo algún peligro
+3860,Seguridad,correcto,Lo que sientes al hacer algo que sabes que es lo correcto
+3861,Seguridad,apoyo,Lo que sientes al tener el apoyo de la gente que te importa
+3862,Obligación,deber,Deberes
+3863,Obligación,calificación,Calificación de una acción a la que te mandaron
+3864,Obligación,deber,El deber de ayudar a tu equipo de trabajo
+3865,Obligación,padres,Lo que tus padres te imponían en casa
+3866,Amenaza,intimidación,Cuando alguien habla demasiado usualmente te trata de intimidar
+3867,Amenaza,peligro,Estado que sientes al estar bajo peligro
+3868,Excusa,safarse,Lo que dices para safarte de hacer algún deber
+3869,Excusa,no compromiso,Invento verbal de un plan para lograr evitar un compromiso
+3870,Pensamiento,existir,Lo que tengo para existir
+3871,Pensamiento,mente,Un acto mental
+3872,Pensamiento,imaginación,Lo que tienes en tu mente al imaginar historias falsas (pasarse rollos)
+3873,Compasión,ayuda,Lo que tenemos al ayudar a una persona
+3874,Compasión,misericordia,Misericordia
+3875,Compasión,perdón,Perdonar al culpable
+3876,Definición,descripción,Descripcion 
+3877,Definición,significado,El significado de algo es una 
+3878,Definición,diccionario,Dicccionario 
+3879,Definición,necesario,Cuando no entiendo algo necesito una 
+3880,Definición,entendimiento,forma mas explicita de entender algo 
+3881,Definición,explicación,Explicar una palabra de mejor manera 
+3882,Felicidad,emoción,Emoción 
+3883,Felicidad,satisfacción,Sensacion de estar satisfecho 
+3884,Felicidad,gusto,Cuando hago algo que me gusta me provoca  
+3885,Felicidad,no tristeza,Contrario a tristeza 
+3886,Felicidad,sentimiento,Sentimiento 
+3887,Felicidad,bien,Cuando algo sale bien me provoca 
+3888,Acuerdo,coincidencia,Coincidir en algo 
+3889,Acuerdo,dos o más partes,Cuando dos personas quieren reunirse llegan a un 
+3890,Acuerdo,plan,Planificar hacer algo 
+3891,Acuerdo,quedar,Quedar con alguien a hacer algo
+3892,Acuerdo,promesa,Promesa
+3893,Ansiedad,insatisfacción,Insatisfacón
+3894,Ansiedad,incomodidad,Incomodidad 
+3895,Ansiedad,necesario,Necesidad de algo inalcansable  
+3896,Ansiedad,búsqueda,busqueda de algo inaccequible 
+3897,Ansiedad,querer,Querer hacer algo rápido 
+3898,Ansiedad,no esperar,No poder esperar 
+3899,Sugerencia,concejo,Consejo 
+3900,Sugerencia,ayuda,Ayuda 
+3901,Sugerencia,ayuda,Cuando necesito ayuda sobre algo pido una
+3902,Sugerencia,preguntar,Preguntar por lo que el otro cree que es mejor 
+3903,Razón,correcto,Estar en lo correcto 
+3904,Razón,argumentación,Argumento
+3905,Razón,explicación,Explicacion para tener una razon
+3906,Razón,saber,"Si se algo que tu no, tengo la "
+3907,Razón,explicación,Explicacion para hacer algo 
+3908,Razón,motivación,Motivo para hacer algo 
+3909,Ganancia,rentabilidad,Rentabilidad 
+3910,Ganancia,ventas,Cuando vendo algo obtengo una 
+3911,Ganancia,obtención,Obtener algo 
+3912,Ganancia,ventas,En las ventas se busca una 
+3913,Ganancia,dinero,Dinero 
+3914,Ganancia,empresas,Las empresas poco rentable son las que tienen poca 
+3915,Ganancia,no perder,Contrario a perder 
+3916,Decisión,acción,a hacer algo
+3917,Decisión,elección,Escoger 
+3918,Decisión,declinación,Declinarme por algo 
+3919,Decisión,elección,Cuando estoy entre dos cosas debo tomar una 
+3920,Decisión,preferencia,Preferir
+3921,Honestidad,verdad,Decir la verdad
+3922,Honestidad,sinceridad,Sinceridad 
+3923,Honestidad,transparencia,Ser transparente 
+3924,Honestidad,decir,Para decir las cosas que siento necesito una gran 
+3925,Obsesión,necesario,Necesidad de hacer algo 
+3926,Obsesión,pensamiento,Pensar mucho en algo 
+3927,Obsesión,pensamiento,Pensar en algo todo el tiempo
+3928,Obsesión,no salud,Forma poco sana de querer hacer algo 
+3929,Obsesión,pensar mucho,Cuando se piensa mucho en algo que me gusta
+3930,Obsesión,repetición,Cuando quiero mucho repetir algo me provoca una 
+3931,Obsesión,enfermedad,Es una enfermedad
+3932,Obsesión,trastorno,Trastorno mental
+3933,Obsesión,sólo una,Solo quiere una cosa
+3934,Obsesión,necesario,Necesidad de algo
+3935,Obsesión,atención,Enfocarse solo en una cosa
+3936,Obsesión,no vivir,No poder vivir sin algo
+3937,Obsesión,no compartir,No querer compartir algo
+3938,Ansiedad,natural,Estado natural
+3939,Ansiedad,incomodidad,Suele darse en momentos incomodos
+3940,Ansiedad,sentimiento,Es una forma de sentirse
+3941,Ansiedad,insomnio,No deja dormir
+3942,Ansiedad,rápidez,Sucede cuando quieres que algo pase rapido
+3943,Ansiedad,descontrol,"Se puede reducir, pero no controlar"
+3944,Ansiedad,mal,En exceso puede ser mala
+3945,Honestidad,valor,Valor
+3946,Honestidad,virtud,Virtud
+3947,Honestidad,desarrollo,Se desarrolla
+3948,Honestidad,principio,Es un principio
+3949,Honestidad,agradable,A las personas les agrada
+3950,Honestidad,necesario,Es necesaria
