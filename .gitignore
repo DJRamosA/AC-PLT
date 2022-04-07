@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 # Other Files
+dict/
 SBW-vectors-300-min5.bin
 # Datos Codificados Estudio v2a.xlsx
