@@ -131,4 +131,5 @@ dmypy.json
 # Other Files
 dict/
 SBW-vectors-300-min5.bin
+SBW-vectors-300-min5.bin.gz
 # Datos Codificados Estudio v2a.xlsx
