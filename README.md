@@ -1,2 +1,11 @@
-# GeneradorCPN
-In this proyect will create a automatic process of property listing tasks, to a complete Concept Property Norm.
+# CA-PLT (Codificación Automatica de PLT)
+
+This proyect ...
+
+
+## Requirements
+This proyect is using `python==3.10.9` you can install all the libraries using `pip install -r src\requirements.txt`.
+
+## Usages
+
+
