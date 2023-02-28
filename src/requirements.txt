@@ -5,3 +5,4 @@ scikit-learn==1.2.1
 spacy==3.5.0
 gensim==4.3.0
 plotnine==0.10.1
+patchworklib==0.5.2
