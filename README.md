@@ -13,7 +13,7 @@ Now you are ready to go.
 
 ## Usages
 
-The main model is in the [CA_PLT.ipynb](\src\CA_PLT.ipynb), the same jupyter notebook has the instructions. To use this model the dataset has to have 3 columns: `concept`, `feature`, and `codification`. In this corresponding order to use in the model.
+The main model is in the [AC_PLT.ipynb](\src\AC_PLT.ipynb), the same jupyter notebook has the instructions. To use this model the dataset has to have 3 columns: `concept`, `feature`, and `codification`. In this corresponding order to use in the model.
 
 In the section of **Set of the Language**, there is a section where you can choose the language of your preference (if you download the word2vec specified in [Requirements](##Requirements)).
 
