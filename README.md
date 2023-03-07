@@ -22,7 +22,7 @@ In the next section, **Important functions** there is the basic function `clean_
 For the **Word Embedding** section, there are a few changes you have to make in the matrix filling, you have to change the column name to the name in your dataset. In the reduction of the matrix part, have to change the order of the dataset, first 300 columns are the *vector value*, then the *Concept*, *Codification* and *Description* in that exact order.
 
 
-In **Model**, there is the main algorithm ``CA_PLT()``, where the only parameter is `n_clusters` the number of clusters of the *k*-Means algorithm. The important functions are:
+In **Model**, there is the main algorithm ``AC_PLT()``, where the only parameter is `n_clusters` the number of clusters of the *k*-Means algorithm. The important functions are:
 - ``fit()``: receives the training dataset and trains the k-means algorithm.
 - ``transform()``: receives the test dataset, and returns a matrix with the top-1 to top-*k* accuracy of the model.
 
