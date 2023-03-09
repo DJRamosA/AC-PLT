@@ -167,4 +167,15 @@ dmypy.json
 dict/
 SBW-vectors-300-min5.bin
 SBW-vectors-300-min5.bin.gz
+src/CPN27
+src/CPN120
+data/data_buchanan
+data/CPN120/k_acc.csv
+data/CPN120/propiedades_codigo.csv
+data/CPN120/respaldo_bbdd_plt_jul_2022.zip
+data/CPN120/RK_NewData.csv
+data/CPN27/Datos Codificados Estudio v2a.csv
+data/CPN27/Datos Codificados Estudio v2a.xlsx
+data/CPN27/RK_data.csv
+data/CPN27/RK_processed_data.csv
 # Datos Codificados Estudio v2a.xlsx

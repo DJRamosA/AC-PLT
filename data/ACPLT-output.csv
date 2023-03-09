@@ -1,0 +1,989 @@
+Concept,Description,top-1 suggestion,top-2 suggestion,top-3 suggestion
+Amenaza,alerta,alerta,reacción,advertencia
+Agradecimiento,responder favor alguien,favor,bien,aceptación
+Ansiedad,esperar,deseo,confianza,aceptación
+Razón,argumento,argumentación,creencia,razonamiento
+Definición,solido,advertencia,optimizacion,lema patrio
+Éxito,lograr,escape,objetivos,logro
+Ansiedad,produce efectos movimientos físicos involuntarios,estructura,desgracia,angustia
+Obligación,estudias prueba,hacer,estudiar,ganar
+Seguridad,padres hijos,padres,amistad,estudiar
+Ansiedad,problema sicológico,solución,físico/psicológico,moral
+Verdad,contrario mentira,no mentir,mentira,pensamiento
+Decisión,cambia realidad,ataque,análisis,responsabilidad
+Destreza,habilidad,habilidades,habilidades,destreza
+Desesperación,intranquilidad,malestar,inseguridad,inestabilidad
+Ansiedad,algun acontecimiento importante,negativo,positivo,lema patrio
+Decisión,conjunto cosas seleccionas,bien,ganar,análisis
+Amenaza,acechante,no soltar,ataque,desgracia
+Ansiedad,normalmente mujeres,psicopatía,ayuda,académico
+Habilidad,recurso trabajado,trabajo,dinero,carrera
+Seguridad,barrios marginales,psicopatía,estructura,candados
+Compasión,agobia persona,persona,personal,advertencia
+Seguridad,protección,protección,barrera,inseguridad
+Peligro,amenza inminente,amenaza,descontrol,peligro
+Habilidad,accion,acción,razonamiento,misión
+Decisión,grado dificultad,dificultad,características,descontrol
+Esperanza,terner fundamentos racionales,estructura,explicación,empatía
+Pensamiento,constante,constante,alegría,fijación
+Definición,caracteristica palabra,significado,advertencia,características
+Amenaza,enfermedad,enfermedad,trastorno,angustia
+Desesperación,actuar irracional inconciente efecto concepto,resolución,advertencia,moral
+Ganancia,ganancia valor material inmaterial,valor,material,ventas
+Peligro,amenaza,amenaza,peligro,arma
+Definición,,bien,properidad,advertencia
+Plan,jefes guerra buscan ganar,militar,escape,intimidación
+Amenaza,desafío,acción,solución,ayuda
+Oportunidad,posibidad,advertencia,lema patrio,empatía
+Agradecimiento,honestidad,honestidad,sinceridad,transparencia
+Seguridad,siente,comer,bien,persona
+Agradecimiento,responder ayuda,ayuda,ayuda,ayuda
+Ganancia,señalar éxito,éxito,aclaración,acción
+Culpa,sentimiento malo,indebido,sentimiento,positivo
+Esperanza,pierde,lo último que se pierde,no perder,alivio
+Decisión,actuar voluntad,resolución,ayuda,aceptación
+Acuerdo,trato,trato,trato,amabilidad
+Excusa,credibilidad,confianza,transparencia,moral
+Amenaza,acecha,ataque,desgracia,alivio
+Seguridad,contrario temor miedo,miedo,no mentir,descontrol
+Culpa,dolor,evitación,sudor,angustia
+Honestidad,,bien,properidad,advertencia
+Plan,pasos seguir frente situación,pasos,futuro,camino
+Peligro,señales construcción prohiben paso advertencia,advertencia,descontrol,intimidación
+Plan,proyecto,proyecto,propuesta,acción
+Verdad,pinoccio tenia decirla crezca nariz,no soltar,empatía,lema patrio
+Definición,vía busca significado,objetivos,escape,objetivos
+Seguridad,retribución acto,acción,incontrolable,moral
+Acuerdo,ceder,querer,aceptación,intimidación
+Plan,estrategia implementar conseguirun objetivo,objetivos,escape,estrategia
+Pensamiento,pasa cerebro,cerebro,mente,nerviosismo
+Plan,permite coordinación interna,permitir,planificación,no sistema
+Razón,inteligencia,inteligencia,cognitivo,capacidad
+Obligación,evadir,evación,complot,intimidación
+Acuerdo,llevan cabo,idea,psicopatía,planificación
+Agradecimiento,forma recompensar favor,favor,acción,aceptación
+Amenaza,terrorismo,violencia,complot,incontrolable
+Desesperación,cuanddo necesita urgentemente puedes,ganar,hacer,no hacer
+Felicidad,emoción,emoción,alegría,alegría
+Esperanza,fe situacion,alerta,sobrepasar,fe
+Acuerdo,tregua,paz,pacto,acción
+Decisión,define futuro,futuro,estructura,explicación
+Ansiedad,negativo,positivo,positivo,positivo
+Razón,lógico,lógica,razonamiento,explicación
+Plan,determinacion futuro,justificación,optimizacion,empatía
+Obsesión,actuar irracionalmente,resolución,agravante,argumentación
+Ganancia,,bien,properidad,advertencia
+Agradecimiento,educacion,atención,policias,optimizacion
+Seguridad,robos,complot,no delincuencia,agravante
+Seguridad,contraseñas,memoria,advertencia,estructura
+Esperanza,fe,fe,fe,creencia
+Plan,clara proyecciones,estructura,características,fijación
+Plan,funcionar,properidad,no sistema,resolución
+Compasión,entender situacion,sobrepasar,alerta,optimizacion
+Ansiedad,sensación nerviosa angustia inestabilidad,angustia,sensación,angustia
+Felicidad,euforia,nerviosismo,alegría,optimismo
+Ansiedad,sentimiento provoca nervios,nerviosismo,desgracia,angustia
+Plan,establecer pasos,pasos,escape,objetivos
+Acuerdo,pacto persona particular,advertencia,persona,personal
+Culpa,sentimiento negativo,positivo,sentimiento,positivo
+Obligación,contrato,contrato,convenio,acción
+Decisión,eleccion,misión,justificación,atención
+Compasión,empatia,empatía,optimizacion,negativo
+Agradecimiento,realiza persona alguien,personal,persona,advertencia
+Acuerdo,entendimiento,entendimiento,estructura,explicación
+Razón,pensamiento,pensamiento,idea,razonamiento
+Ansiedad,ganas,ganar,bien,conseguir
+Éxito,ganar,ganar,triunfo,logro
+Destreza,afinidad,repetición,características,habilidades
+Oportunidad,repetir,confianza,deseo,aceptación
+Seguridad,alarmas anti robo,complot,descontrol,incontrolable
+Oportunidad,opcion,opción,opción,atención
+Esperanza,tema presente religion,aclaración,lema patrio,reflexión
+Excusa,subterfugio,incontrolable,argumentación,querer
+Compasión ,pacifismo,moral,explicación,pensamiento
+Éxito,meta lograda,meta,logro,objetivos
+Destreza,poseen deportistas,deporte,características,psicopatía
+Amenaza,miedo,miedo,desesperación,pensamiento
+Esperanza,sentimiento,sentimiento,indebido,positivo
+Obsesión,mantiene atención normal,atención,planificación,advertencia
+Obsesión,concepto percibido negativo,concepto,positivo,positivo
+Esperanza,fé,fe,fe,justificación
+Razón ,persona correcto,correcto,personal,correcto
+Esperanza,fe,fe,fe,creencia
+Felicidad,varia persona persona pudiendo responder distintos objetos,advertencia,personal,persona
+Verdad,seguridad,inseguridad,esperanza,protección
+Ansiedad,anhelo,deseo,sentimiento,motivación
+Oportunidad,posibilidad,posibilidad,opción,opción
+Habilidad,innovador,estructura,equilibrio,éxito
+Éxito,lograr objetivo,objetivos,escape,objetivos
+Obsesión,pensar,pensamiento,pensamiento,ayuda
+Pensamiento,positivo negativo,positivo,positivo,positivo
+Agradecimiento,regalos,regalo,padres,lema patrio
+Plan,armar personas,dos o más partes,ayuda,psicopatía
+Esperanza,pensar superar momento duro,carrera,pensamiento,momento
+Honestidad,claridad,coherencia,sinceridad,transparencia
+Compasión,misericordia alguien,misericordia,bien,no soltar
+Obligación,constricción,sudor,nerviosismo,alivio
+Destreza,musical,lema patrio,éxito,segurito(personaje)
+Amenaza,probabilidad pase malo,deseo,mal,responsabilidad
+Ansiedad,sentimiento angustia,sentimiento,angustia,indebido
+Plan,completacion satisfaccion,justificación,razonamiento,atención
+Éxito,metas personales,logro,objetivos,estructura
+Sugerencia ,indicar solución,descripción,properidad,explicación
+Definición,plasmar determinado concepto,concepto,estructura,explicación
+Ansiedad,trastorno desembocar graves adicciones,trastorno,enfermedad,angustia
+Agradecimiento,gratitud,gratitud,satisfacción,alegría
+Pensamiento,depende persona,advertencia,personal,persona
+Peligro,riesgo,riesgo,riesgo,peligro
+Seguridad,cree correcto,correcto,correcto,mal
+Plan,preparación,esfuerzo,planificación,preparación
+Acuerdo,trato,trato,trato,amabilidad
+Seguridad,sentías niño brazos padres,padres,no soltar,tristeza
+Obligación,deber,deber,deber,moral
+Seguridad,deja espacio duda,planificación,no sistema,insomnio
+Acuerdo,formales legalizar,reunión,propuesta,estructura
+Amenaza,alguien usualmente intimidar,bien,intimidación,incontrolable
+Verdad,contrario mentiras,no mentir,mentira,pensamiento
+Seguridad,supuesta función brinda,planificación,alternativa,advertencia
+Pensamiento,proviene acción realiza mente,acción,mente,advertencia
+Decisión,seguro,inseguridad,aceptación,pensamiento
+Peligro,amenaza,amenaza,peligro,arma
+Excusa,intento justificacion accion,acción,justificación,optimizacion
+Culpa,responsable,responsabilidad,descontrol,advertencia
+Plan,comprar,ventas,ganar,dinero
+Ganancia ,utilidad,utilidad,valor,properidad
+Ganancia,adquisición cosas positivas,positivo,bien,análisis
+Plan,analizar,análisis,análisis,no discusión
+Peligro,acompañado advertencia,advertencia,acción,lema patrio
+Amenaza,asesino,complot,ataque,ataque
+Peligro,emergencia catástrofe,herida,alerta,incapacidad
+Seguridad,padres hijo,padres,lema patrio,familia
+Definición,estipuladas,properidad,reglas,bien
+Agradecimiento,sientes alguien favor,bien,bien,responsabilidad
+Obsesión,conducta riesgo,riesgo,riesgo,agravante
+Felicidad,alegria,alegría,alegría,atención
+Desesperación,tratan evitar sentimiento buscando soluciones,ayuda,objetivos,escape
+Ansiedad,exitado,bien,properidad,advertencia
+Peligro,ganas gritar,ganar,no soltar,pensamiento
+Plan,coordinacion ideas,idea,estructura,empatía
+Ansiedad,querer alcanzar futuro,llegar,querer,escape
+Acuerdo,tratado,tratado,pacto,convenio
+Sugerencia ,idea,idea,idea,estructura
+Pensamiento,permite comunicación,permitir,no sistema,planificación
+Plan,estrategia,estrategia,acción,escape
+Agradecimiento,cariño,alegría,gratitud,regalo
+Seguridad,proteccion,protección,atención,justificación
+Honestidad,cualidad destacable personas,características,ayuda,dos o más partes
+Pensamiento,mental,mente,trastorno,mente
+Seguridad,asume positiva,positivo,alternativa,advertencia
+Oportunidad,aprovechas,hacer,no soltar,no hacer
+Honestidad,políticos generalmente,académico,estructura,psicopatía
+Plan,modelo seguir,pasos,escape,camino
+Definición,características cosa objeto persona,atención,advertencia,idea
+Peligro,miedo,miedo,desesperación,pensamiento
+Agradecimiento,benefició acto voluntario alguien,acción,incontrolable,bien
+Ganancia ,beneficio,beneficios,beneficios,sociedad
+Decisión,pensar tomar decisión,decisión,pensamiento,confianza
+Habilidad,humanos desarrollan conforme requieren,psicopatía,estructura,planificación
+Excusa,innecesaria frente responsabilidad,responsabilidad,agravante,descontrol
+Ansiedad,volverse loco,locura,no soltar,ataque
+Verdad,justicia,perdón,moral,sociedad
+Acuerdo,credito,justificación,atención,razonamiento
+Culpa,sentimiento,sentimiento,indebido,positivo
+Obsesión,deseo descontrolado,descontrol,deseo,desgracia
+Compasión,alivio  ,alivio,descontrol,properidad
+Ganancia ,gana trabajo,trabajo,carrera,esfuerzo
+Esperanza,similar fe,fe,común,moral
+Acuerdo,2 partes,dos o más partes,trato,material
+Excusa,pretexto,pretexto,argumentación,incontrolable
+Ganancia ,obtiene recibir beneficio esforzandose,esfuerzo,beneficios,dinero
+Honestidad,virtud,virtud,moral,properidad
+Razón,promueve desarrollo discusión,estructura,sociedad,planificación
+Ansiedad,angustia intolerable cargo,agravante,angustia,incontrolable
+Razón,acertado,momento,equilibrio,tranquilidad
+Razón,,bien,properidad,advertencia
+Desesperación,tratar describir,descripción,análisis,explicación
+Sugerencia ,guiar,guía,camino,confianza
+Peligro,asocia sensacion,repetición,bien,angustia
+Razón ,sentimiento,sentimiento,indebido,positivo
+Razón,logica,lógica,advertencia,justificación
+Desesperación,incapacidad reaccionar frente problema,descontrol,solución,incapacidad
+Éxito,suerte,mal,ayuda,lema patrio
+Esperanza,augurio,momento,pensamiento,lema patrio
+Amenaza,inseguridad personas,dos o más partes,ayuda,inseguridad
+Decisión,faciles,dificultad,advertencia,atención
+Peligro,miedo,miedo,desesperación,pensamiento
+Acuerdo,consenso,pacto,propuesta,no discusión
+Razón,acción acontecimiento,acción,acción,incapacidad
+Obligación,compromiso persona cumplirlo,aceptación,compromiso,ayuda
+Ansiedad,ausencia,descontrol,agravante,desgracia
+Destreza,académica,estudiar,actividades,sociedad
+Obligación,reglas,reglas,estructura,moral
+Verdad,piensa corrobora empiricamente,mal,creencia,planificación
+Desesperación,alteración ánimo,ánimo,desgracia,descontrol
+Culpa,sentirse provocado efecto negativo,descontrol,desgracia,positivo
+Éxito,llegas,hacer,no hacer,bien
+Compasión,empatia,empatía,optimizacion,negativo
+Esperanza,lograr dificil lograrlo,escape,logro,carrera
+Razón,argumentar,argumentación,creencia,confianza
+Obligación,,bien,properidad,advertencia
+Destreza,aptitud,aptitud,habilidades,capacidad
+Obligación,,bien,properidad,advertencia
+Obligación,tienes trabajo puedes fallar,hacer,ganar,no hacer
+Obligación,responsabilidad,responsabilidad,aceptación,agravante
+Felicidad,bienestar,bienestar,no bienestar,sociedad
+Ganancia ,capital,acción,lema patrio,sociedad
+Plan,idea guia situacion llevara cabo,idea,alerta,optimizacion
+Obligación,deber cumplir guste,aceptación,deber,ayuda
+Razón,correcto,correcto,correcto,factible
+Felicidad,cuado persona,personal,persona,advertencia
+Seguridad,sensación tranquilidad,tranquilidad,sensación,comodidad
+Ansiedad,ganas cosas sucedan rápido,bien,ganar,pensamiento
+Esperanza,fe,fe,fe,creencia
+Pensamiento,filosofia,lógica,advertencia,policias
+Razón,responde pregunta,lógica,ataque,creencia
+Obligación,autoridades,incapacidad,complot,ayuda
+Habilidad,capacidad(es destacan persona resto,advertencia,planificación,psicopatía
+Éxito,logras,no hacer,hacer,bien
+Seguridad,tranquilidad,tranquilidad,calma,comodidad
+Plan,inicio proyecto,proyecto,acción,objetivos
+Excusa,mentira,mentira,no mentir,locura
+Desesperación,encerrado lugar pequeño pones,empatía,daño,hacer
+Agradecimiento,alguien,bien,correcto,persona
+Éxito,rendir,acción,aceptación,lema patrio
+Obligación,reglas,reglas,estructura,moral
+Peligro,idea,idea,idea,estructura
+Seguridad,bancos,ventas,candados,pérdidas
+Obsesión,connotación negativa,positivo,moral,agravante
+Peligro,limite,limitación,justificación,advertencia
+Esperanza,aplica situaciones acontecerán futuro,estrés,psicopatía,planificación
+Oportunidad,posibilidad quisiste nunco has podido,hacer,responsabilidad,ganar
+Esperanza,sentimiento anhelo,sentimiento,indebido,deseo
+Acuerdo,decisión conjunto,decisión,planificación,acción
+Peligro,malo,mal,responsabilidad,pensamiento
+Pensamiento,idea,idea,idea,estructura
+Esperanza,objetiva subjetiva,explicación,moral,agravante
+Honestidad,hablar,ayuda,pensamiento,aclaración
+Excusa,razón,argumentación,planificación,idea
+Obligación,,bien,properidad,advertencia
+Amenaza,peligro,peligro,riesgo,riesgo
+Desesperación,cólera,enfermedad,descontrol,herida
+Ansiedad,desviar responsabilidad,responsabilidad,incontrolable,agravante
+Obsesión,centra atención,atención,planificación,estructura
+Éxito,persona mentaliza logra,persona,carrera,advertencia
+Seguridad,certeza,certeza,evidencia,properidad
+Felicidad,alegria,alegría,alegría,atención
+Acuerdo,condiciones,estrés,properidad,aceptación
+Culpa,querer revertir situacion,alerta,sobrepasar,ayuda
+Obligación,,bien,properidad,advertencia
+Acuerdo,requiere aceptación partes,dos o más partes,esfuerzo,planificación
+Ansiedad,terminar rapido,dificultad,interés,lema patrio
+Agradecimiento,acto padres enseñan hijos pequeños,padres,psicopatía,pensamiento
+Excusa,argumentación,argumentación,razonamiento,lógica
+Acuerdo,compromiso palabras,compromiso,detallar,acción
+Felicidad,liberacion vibras alegria,alegría,lema patrio,optimizacion
+Acuerdo,participantes,deporte,lema patrio,acción
+Amenaza,peligroso,peligro,daño,peligro
+Obligación,carácter,moral,sociedad,características
+Culpa,afecta conciencia limpia,conciencia,no bienestar,planificación
+Peligro,sentirse,bien,comer,tristeza
+Habilidad ,don,don,lema patrio,acción
+Esperanza,pensar ocurrir,pensamiento,bien,deseo
+Peligro,riesgo,riesgo,riesgo,peligro
+Excusa,forma esquivar,acción,intimidación,daño
+Plan,organizado,organización,acción,sociedad
+Verdad,existente,properidad,no sistema,características
+Ganancia,logro,logro,objetivos,carrera
+Desesperación,crisis,futuro,inestabilidad,descontrol
+Pensamiento,relacionado racionalidad razón,pensamiento,bien,moral
+Honestidad,cualidad,cualidad,características,habilidades
+Verdad,fuertes meten problemas,solución,psicopatía,desgracia
+Oportunidad,alternativa,opción,opción,properidad
+Obsesión,fijacion intensa,optimizacion,justificación,lema patrio
+Esperanza,ulitmo pierde,lo último que se pierde,no perder,alivio
+Acuerdo,trato,trato,trato,amabilidad
+Peligro,inseguridad,inseguridad,violencia,futuro
+Felicidad,juzgarse,properidad,argumentación,moral
+Excusa,explicacion omitido/ relizar,justificación,empatía,advertencia
+Culpa,participe acto,acción,incontrolable,aceptación
+Éxito,relacionan felicidad,felicidad,bien,alegría
+Agradecimiento,,bien,properidad,advertencia
+Razón,cerebro,cerebro,nerviosismo,cognitivo
+Amenaza,desea negativo persona,advertencia,persona,positivo
+Decisión,esfuerzo,esfuerzo,trabajo,ayuda
+Plan,dieta,comer,enfermedad,animales
+Sugerencia ,consejo,concejo,acción,no discusión
+Razón,aspecto permite pensamiento lógico,permitir,pensamiento,estructura
+Éxito,lograr objetivos,objetivos,logro,objetivos
+Definición,determinar objetivo elemento,objetivos,escape,características
+Destreza,,bien,properidad,advertencia
+Ganancia ,fruto,descontrol,properidad,explicación
+Pensamiento,nucleo ideas,idea,estructura,idea
+Ganancia ,implica beneficio individuo,beneficios,advertencia,planificación
+Ganancia ,beneficio,beneficios,beneficios,sociedad
+Verdad,cosas padres,bien,padres,pensamiento
+Plan,proposito,atención,razonamiento,justificación
+Obsesión,,bien,properidad,advertencia
+Pensamiento,leerte,no soltar,hacer,empatía
+Honestidad,personas agrada,dos o más partes,ayuda,psicopatía
+Desesperación,susto,susto,apuro,herida
+Desesperación,acciones precipitadas,acción,decisión,resolución
+Amenaza,dañino,daño,peligro,daño
+Desesperación,adrenalina,adrenalina,emoción,alivio
+Peligro,peligro,peligro,riesgo,riesgo
+Honestidad,transparencia,transparencia,honestidad,coherencia
+Honestidad,,bien,properidad,advertencia
+Éxito,cantante seguidores,lema patrio,acción,admiración
+Acuerdo,pacto,pacto,convenio,acción
+Honestidad,realmente,pensamiento,bien,responsabilidad
+Amenaza,cambia actitud personas,ayuda,dos o más partes,advertencia
+Oportunidad,repetirlo,pensamiento,no soltar,deseo
+Excusa,gente cumple,admiración,aceptación,bien
+Amenaza,escapar,librarse,complot,daño
+Ansiedad,picotear comida,comer,ganar,no soltar
+Seguridad,confort,confort,comodidad,atención
+Sugerencia ,personas ayudar decisiones,ayuda,dos o más partes,psicopatía
+Éxito,logra objetivo,objetivos,carrera,objetivos
+Seguridad,chile perdiendo,comer,lema patrio,deporte
+Seguridad,evita asaltos intranquilidad malestar daño,malestar,descontrol,desgracia
+Agradecimiento,conforme,conformidad,virtud,arreglo
+Honestidad,cualidad persona,personal,cualidad,persona
+Ansiedad,dificulta pensamiento,pensamiento,explicación,estructura
+Acuerdo,tratado,tratado,pacto,convenio
+Amenaza,situación riesgo,riesgo,peligro,futuro
+Felicidad,contento,alegría,satisfacción,felicidad
+Ansiedad,anhelo adelantar tiempo,confianza,momento,ayuda
+Verdad,transparencia,transparencia,honestidad,coherencia
+Compasión,conmueve,molestia,alivio,tranquilidad
+Seguridad,confianza,confianza,tranquilidad,ayuda
+Excusa,pretexto,pretexto,argumentación,incontrolable
+Ganancia,presente finanza economía,sociedad,optimizacion,planificación
+Definición,proponer caracteristicas,características,optimizacion,análisis
+Razón,mente,mente,mente,cognitivo
+Obsesión,,bien,properidad,advertencia
+Ganancia,percibir algun beneficio,negativo,beneficios,justificación
+Pensamiento,logico deductivo etc,lógica,razonamiento,explicación
+Sugerencia,consejo,concejo,acción,no discusión
+Sugerencia,consejo,concejo,acción,no discusión
+Culpa,falta,mal,descontrol,agravante
+Peligro,punto llegar mala situacion,alerta,mal,sobrepasar
+Definición,desconce buscamos,aceptación,pensamiento,planificación
+Culpa,sensación remordimiento humano,remordimiento,sensación,tristeza
+Pensamiento,tipo corriente,no sistema,moral,material
+Excusa,mentir,no mentir,mentira,querer
+Amenaza,barrera cumplir objetivos,objetivos,deber,logro
+Honestidad,,bien,properidad,advertencia
+Éxito,realización sueños,realización,estructura,logro
+Desesperación,corriendo tiempo,insomnio,daño,riesgo
+Seguridad,sentirse protegido peligros,protección,bien,protección
+Destreza,facilidad alguien,facilidad,bien,admiración
+Seguridad,proteccion,protección,atención,justificación
+Pensamiento,reflexión,reflexión,explicación,estructura
+Honestidad,dificil mantenerla,dificultad,interés,optimizacion
+Definición,entiende palabara busca,objetivos,ataque,planificación
+Habilidad,necesarias lograr,escape,objetivos,esfuerzo
+Acuerdo,promesa,aceptación,acción,lema patrio
+Verdad,realidad,creencia,explicación,estructura
+Plan,preparado,preparación,pensamiento,lema patrio
+Plan,idea pasos lograr,pasos,escape,objetivos
+Peligro,choque,ataque,herida,descontrol
+Acuerdo,amistad,relación,amor,amabilidad
+Destreza,practica continua,práctica,actividades,alivio
+Amenaza,intimidación,intimidación,complot,violencia
+Decisión,elegir,elección,elección,confianza
+Obligación,,bien,properidad,advertencia
+Oportunidad,desafio,misión,lema patrio,optimizacion
+Definición,descripcion,justificación,atención,advertencia
+Compasión,dolor,evitación,sudor,angustia
+Agradecimiento,satisfecho,satisfacción,alegría,tranquilidad
+Peligro,expuesto consecuencias negativas,consecuencias,descontrol,daño
+Seguridad,contrario amenaza,amenaza,no mentir,no perder
+Agradecimiento,satisfecho,satisfacción,alegría,tranquilidad
+Peligro,amenaza,amenaza,peligro,arma
+Definición,visualizar,análisis,permitir,estructura
+Obsesión,incapaz dejarlo,querer,ataque,daño
+Seguridad,necesitan rejas,candados,psicopatía,aceptación
+Seguridad,proteccion,protección,atención,justificación
+Destreza,habilidad,habilidades,habilidades,destreza
+Peligro,entrega respuestas,aceptación,acción,lógica
+Destreza,dote,padres,bien,aceptación
+Razón,alguien correcto,correcto,bien,correcto
+Excusa,evitación,agravante,angustia,cognitivo
+Verdad,gente confianza,confianza,admiración,esperanza
+Pensamiento,personal,personal,planificación,advertencia
+Sugerencia,consejo,concejo,acción,no discusión
+Habilidad,poseer capacidad poseen,habilidades,capacidad,habilidades
+Definición,descripcion,justificación,atención,advertencia
+Peligro,refleja refleja miedo,bien,miedo,descontrol
+Verdad,real,real,común,explicación
+Felicidad,sonrisa,sonrisa,risa,amabilidad
+Amenaza,seguridad,inseguridad,esperanza,protección
+Oportunidad,presentan vida,bien,psicopatía,protección
+Obligación,deber,deber,deber,moral
+Destreza,motricidad fina,cognitivo,habilidades,nerviosismo
+Verdad,honestidad,honestidad,sinceridad,transparencia
+Acuerdo,genera consentimiento posturas,estructura,consentimiento,advertencia
+Oportunidad,lograr,escape,objetivos,logro
+Seguridad,estabilidad,estabilidad,inestabilidad,properidad
+Agradecimiento,realiza corazón,desgracia,lema patrio,alivio
+Agradecimiento,gracias,gratitud,lema patrio,carrera
+Compasión,apiadarse alguien,bien,no soltar,pensamiento
+Compasión,naturaleza humana,humano,explicación,animales
+Éxito,sabiduria,empatía,explicación,no soltar
+Destreza,capacidad,capacidad,habilidades,capacidad
+Acuerdo,conforme,conformidad,virtud,arreglo
+Plan,planificacion previa,optimizacion,planificación,advertencia
+Habilidad,enseñanza superior,estudiar,características,properidad
+Ganancia,favor cambio vendido,favor,dinero,acción
+Sugerencia,enseñar,estudiar,ayuda,explicación
+Plan,proyecto,proyecto,propuesta,acción
+Plan,ponerse,empatía,insomnio,intimidación
+Amenaza,debemos cuidarnos,todos,necesario,ayuda
+Seguridad,zona confort,confort,comodidad,no sistema
+Ganancia ,similar utilidad visto punto vista social,punto de vista,planificación,común
+Pensamiento,simbolo mental representa realidad,mente,explicación,estructura
+Plan,esquema,concepto,no sistema,estructura
+Verdad,pre establecido gente,admiración,planificación,lema patrio
+Verdad,sinceridad,sinceridad,honestidad,motivación
+Verdad,camino correcto,correcto,correcto,camino
+Amenaza,terror,locura,violencia,complot
+Peligro,salir,daño,insomnio,camino
+Definición,explicar palabra,significado,explicación,detallar
+Excusa,suele mentira,evitación,mentira,ataque
+Obsesión,persona vuelve adicto,persona,personal,advertencia
+Pensamiento,útil decidir,análisis,confianza,análisis
+Sugerencia,idea   aceptada,idea,propuesta,idea
+Compasión,perdonar vida alguien,bien,perdón,bien
+Ansiedad,exceso mala,mal,deseo,descontrol
+Destreza,aveces envidiadas,psicopatía,no emoción,no soltar
+Esperanza,positivo ocurra,positivo,deseo,positivo
+Desesperación,incapacidad actuar correctamente,resolución,agravante,incapacidad
+Ansiedad,tipo enfermedad,enfermedad,trastorno,descontrol
+Acuerdo,forma resolver conflictos,solución,acción,solución
+Verdad,innegable,positivo,características,moral
+Compasión ,perdona vida alguien peliculas,bien,pensamiento,no soltar
+Culpa,causa angustia,angustia,desgracia,descontrol
+Verdad,realidad ocurrido,aceptación,incapacidad,logro
+Oportunidad,negocio triunfar,empresas,éxito,carrera
+Amenaza,advertencia grado violencia,violencia,agravante,descontrol
+Razón,ambiguo,moral,explicación,agravante
+Éxito,refleja trinfo,planificación,descontrol,alternativa
+Honestidad,,bien,properidad,advertencia
+Habilidad,destreza,destreza,habilidades,agilidad/fuerza
+Felicidad,contento,alegría,satisfacción,felicidad
+Plan,forma ordenar,acción,resolución,planificación
+Honestidad,lealtad,honestidad,fiel,motivación
+Honestidad,virtud positiva,positivo,virtud,positivo
+Esperanza,debemos perderla momento,pensamiento,responsabilidad,ayuda
+Acuerdo,tratado,tratado,pacto,convenio
+Ganancia,aumento,descontrol,escasez,properidad
+Agradecimiento,entrega cosas cambio,bien,acción,aceptación
+Esperanza,fe,fe,fe,creencia
+Agradecimiento,cortés alguien portado,amabilidad,bien,pensamiento
+Habilidad,especie don,humano,don,familia
+Obligación,compromiso cumplirse,deber,compromiso,aceptación
+Ansiedad,nervios,nerviosismo,nerviosismo,sudor
+Acuerdo,razon lograr interes comun,común,razonamiento,atención
+Oportunidad,tipo costo economía,ventas,planificación,descontrol
+Obligación,escritas palabra,significado,detallar,diccionario
+Seguridad,tranquilidad,tranquilidad,calma,comodidad
+Seguridad,sistema aleja peligro,peligro,riesgo,desgracia
+Seguridad,estabilidad,estabilidad,inestabilidad,properidad
+Culpa,sentimiento negativo,positivo,sentimiento,positivo
+Ansiedad,depresion,desgracia,descontrol,sudor
+Compasión,piedad,piedad,misericordia,no soltar
+Destreza,aumenta probabilidad golpe crítico,desgracia,descontrol,riesgo
+Culpa,ahoga,alivio,ataque,molestia
+Obsesión,amar cosa,atención,tristeza,pensamiento
+Éxito,triunfante,lema patrio,acción,amabilidad
+Ansiedad,comer rapido,dificultad,comer,ganar
+Excusa,pretexto,pretexto,argumentación,incontrolable
+Esperanza,expectativas,logro,pérdidas,aceptación
+Esperanza,soñar gratificacion futura,lema patrio,deseo,aceptación
+Seguridad,entrega favorecer resultados,logro,escape,alternativa
+Culpa,,bien,properidad,advertencia
+Culpa,puedes llevarla vida,ganar,hacer,bien
+Éxito,culmine,deseo,aceptación,llegar
+Acuerdo,tratado,tratado,pacto,convenio
+Esperanza,sentirse acertivo ocurrira esperado,bien,momento,comer
+Desesperación,falta control situacion,alerta,sobrepasar,optimizacion
+Honestidad,caracteristica humano,humano,cognitivo,explicación
+Felicidad,emocional,físico/psicológico,mente,autoafirmación
+Decisión,camino,camino,pasos,lema patrio
+Destreza,rapido,dificultad,atención,interés
+Acuerdo,trato,trato,trato,amabilidad
+Verdad,verosimil,empatía,explicación,no soltar
+Éxito,mejores logran,carrera,escape,esfuerzo
+Oportunidad,pasa,alivio,actual,responsabilidad
+Culpa,incomodidad,incomodidad,malestar,molestia
+Definición,significado elemento,significado,características,detallar
+Verdad,irrefutable,evidencia,creencia,argumentación
+Ansiedad,produce ataques,ataque,desgracia,angustia
+Acuerdo,pacto,pacto,convenio,acción
+Desesperación,malestar mental,mente,malestar,angustia
+Amenaza,precavido situación,futuro,peligro,inquietud
+Obligación,respetuoso padres,padres,amabilidad,pensamiento
+Amenaza,palabras atacar,detallar,intimidación,incontrolable
+Seguridad,prevención peligro,peligro,riesgo,riesgo
+Destreza,detallista,amabilidad,ventas,inquietud
+Esperanza,impulsa,no bienestar,properidad,objetivos
+Pensamiento,verbalizar,no soltar,empatía,explicación
+Destreza,capacidad cosas,capacidad,bien,capacidad
+Seguridad,representa peligro,peligro,riesgo,amenaza
+Seguridad,protección,protección,barrera,inseguridad
+Razón ,analisis,análisis,policias,atención
+Acuerdo,contrato,contrato,convenio,acción
+Obligación,responsabilidad,responsabilidad,aceptación,agravante
+Felicidad,relacionan éxito,éxito,bien,pensamiento
+Culpa,autogol,triunfo,lema patrio,momento
+Agradecimiento,accion persona recibir,acción,personal,advertencia
+Razón,logica,lógica,advertencia,justificación
+Habilidad ,cultivada repetición,explicación,estructura,fijación
+Compasión,ve programas solidarios,estructura,psicopatía,planificación
+Honestidad,forma,acción,actividades,no sistema
+Seguridad,medir,fijación,análisis,análisis
+Pensamiento,resultado reflexion personal,planificación,optimizacion,advertencia
+Acuerdo,permite mantener cohesión social,escape,permitir,sociedad
+Éxito,esfuerzo,esfuerzo,trabajo,ayuda
+Acuerdo,usado frecuencia negocios,académico,siempre,reunión
+Plan,mapa previo,planificación,no sistema,acción
+Pensamiento,culturización,sociedad,estructura,moral
+Desesperación,encerrado pieza puertas ventanas,candados,ventana,daño
+Éxito,alguien inteligente,inteligencia,bien,amabilidad
+Decisión,capacidad elegir,elección,capacidad,análisis
+Amenaza,sentir invulnerabilidad,tristeza,arma,ataque
+Verdad,mascaras omisiones,estructura,agravante,incontrolable
+Felicidad,abunda amistades,relación,admiración,estructura
+Oportunidad,via alternativa,advertencia,opción,lema patrio
+Desesperación,histeria,locura,angustia,desesperación
+Destreza,talentosos,talento,deporte,lema patrio
+Razón ,gana discusión,no discusión,acción,carrera
+Habilidad ,persona,personal,persona,advertencia
+Definición,explicación concepto,concepto,explicación,lógica
+Culpa,remordimiento,remordimiento,arrepentimiento,incontrolable
+Peligro,dañino,daño,peligro,daño
+Compasión,sentimiento culpa,sentimiento,indebido,no mea culpa
+Peligro,palabra utilizada anticipadamente,significado,académico,lema patrio
+Desesperación,miedo,miedo,desesperación,pensamiento
+Esperanza,nombre mujer,persona,lema patrio,significado
+Acuerdo,tratado,tratado,pacto,convenio
+Habilidad,talento,talento,destreza,motivación
+Peligro,cuidado,cuidado,padres,atención
+Definición,especificar,fijación,advertencia,properidad
+Ganancia ,genera trabajo,trabajo,angustia,esperanza
+Obligación,imposicion,justificación,optimizacion,moral
+Felicidad,triste,tranquilidad,pensamiento,felicidad
+Destreza,cualidad positiva,positivo,cualidad,amabilidad
+Acuerdo,llegar punto comun,común,llegar,interés
+Sugerencia ,consejo,concejo,acción,no discusión
+Razón,humanos poseemos,animales,explicación,empatía
+Honestidad,alguien,bien,correcto,persona
+Honestidad,,bien,properidad,advertencia
+Seguridad,guardias,guardias,policias,candados
+Razón,  mental,mente,trastorno,mente
+Excusa,interpretar disculpa,pensamiento,perdón,amabilidad
+Éxito,necesita esfuerzo,esfuerzo,carrera,escape
+Destreza,resultados positivos,positivo/negativo,logro,positivo
+Ganancia,rentabilidad,ventas,pérdidas,properidad
+Éxito,triunfar,ganar,logro,carrera
+Culpa,sensacion malestar cometer error,error,incontrolable,negativo
+Oportunidad,posibilidad,posibilidad,opción,opción
+Obligación,debemos,necesario,todos,pensamiento
+Ansiedad,generar acné tensión muscular tics nerviosos,sudor,angustia,nerviosismo
+Peligro,cuestionamiento,moral,argumentación,estructura
+Definición,descripción,descripción,explicación,descripción
+Acuerdo,cumplir,deber,objetivos,aceptación
+Desesperación,sentimiento angustiante causado fracaso,descontrol,sentimiento,indebido
+Pensamiento,cavilación,no soltar,empatía,explicación
+Obligación,prohibicion,justificación,razonamiento,advertencia
+Peligro,preocupan,molestia,no bienestar,psicopatía
+Esperanza,ilusión,alegría,ganar,motivación
+Éxito,significado persona,significado,personal,advertencia
+plan,organizar recursos personas,ayuda,dos o más partes,psicopatía
+Razón,capacidad persona,capacidad,personal,advertencia
+Felicidad,unido amor,amor,relación,lema patrio
+Destreza,mental,mente,trastorno,mente
+Destreza,simbolo alguien preparado fisicamente,bien,empatía,lema patrio
+Ansiedad,trastornos desarrolan,trastorno,angustia,mente
+Sugerencia,ayuda,ayuda,ayuda,ayuda
+Amenaza,regaño,no soltar,pensamiento,lema patrio
+Destreza,habilidad realización,habilidades,habilidades,habilidades
+Seguridad,factor,características,fijación,descontrol
+Acuerdo,concuerdan partes,dos o más partes,estructura,psicopatía
+Excusa,presentar certificado,aceptación,acción,planificación
+Agradecimiento,demostrar tomo,pensamiento,ayuda,decisión
+Compasión,misericordia,misericordia,piedad,arrepentimiento
+Esperanza,fe,fe,fe,creencia
+Honestidad,caracteristica vista positiva,positivo,punto de vista,optimizacion
+Sugerencia,doy opinión,opinión,conseguir,pensamiento
+Honestidad,respeto,honestidad,amabilidad,moral
+Definición,explica,mal,planificación,bien
+Plan,camino seguir,camino,pasos,logro
+Felicidad,íntegro momentáneo,momento,lema patrio,positivo
+Destreza,presicion,advertencia,optimizacion,empatía
+Ganancia ,extrinseco intrinseco,advertencia,lógica,optimizacion
+Desesperación,necesidad solución inmediata,necesario,solución,aceptación
+Ansiedad,quieres pase rapido,no hacer,hacer,dificultad
+Verdad,mentiras,mentira,no mentir,incontrolable
+Decisión,aceptar pérdida escoge,aceptación,no perder,planificación
+Obsesión,dejar opciones pro,opción,aceptación,escape
+Seguridad,contencion frente situacion,alerta,sobrepasar,atención
+Plan,,bien,properidad,advertencia
+Peligro,sensacion inseguridad frente alguien,admiración,responsabilidad,bien
+Plan,tranquilo,tranquilidad,inquietud,tranquilidad
+Éxito,lograr cien ciento,escape,planificación,objetivos
+Acuerdo,ceder,querer,aceptación,intimidación
+Plan,sucesivo acciones,acción,sociedad,properidad
+Honestidad,mentir,no mentir,mentira,querer
+Ansiedad,sudoración excesiva,sudor,deseo,angustia
+Felicidad,emoción,emoción,alegría,alegría
+Razón ,objetivo,objetivos,objetivos,escape
+Definición,sirve desconocido,explicación,siempre,ataque
+Culpa,sentimiento negativo,positivo,sentimiento,positivo
+Oportunidad,opción,opción,opción,opción
+Pensamiento,abstracto,abstracción,arte,pensamiento
+Acuerdo,plan,proyecto,propuesta,objetivos
+Seguridad,disminuye miedo,miedo,desgracia,angustia
+Honestidad,forma sincerarse,acción,amabilidad,lema patrio
+Oportunidad,posibilidad,posibilidad,opción,opción
+Felicidad,sentirse,bien,comer,tristeza
+Esperanza,pierde,lo último que se pierde,no perder,alivio
+Amenaza,advertencia agresiva,advertencia,amabilidad,agravante
+Desesperación,incontrolable,descontrol,desgracia,desesperación
+Peligro,advertencia,advertencia,alerta,amenaza
+Definición,detallar,explicación,aclaración,no discusión
+Habilidad,facil,dificultad,atención,optimizacion
+Seguridad,cinturon,lema patrio,advertencia,comer
+Obsesión,apego,moral,agravante,honestidad
+Honestidad,acción,acción,actividades,alternativa
+Peligro,tipo situación,futuro,peligro,planificación
+Desesperación,angustia,angustia,desesperación,angustia
+Agradecimiento,alegría situación persona,persona,futuro,advertencia
+Plan,cabo proyecto,idea,proyecto,realización
+Éxito,cúspide laboral,laboral,moral,características
+Culpa,malestar,malestar,incomodidad,nerviosismo
+Razón ,simpatia,atención,advertencia,justificación
+Obsesión,constituir enfermedad mental,mente,enfermedad,trastorno
+Excusa,forma salir ileso situación desfavorecería,daño,futuro,peligro
+Honestidad,asumir presente,aceptación,planificación,acción
+Seguridad,equilibrio,punto medio,desequilibrio,properidad
+Destreza,jugar futbol necesita,deporte,ganar,carrera
+Ganancia,,bien,properidad,advertencia
+Esperanza,piensa perdido abre brecha,planificación,alivio,ataque
+Desesperación,intranquilidad resolver solucionar,solución,solución,ayuda
+Verdad,ciencia,explicación,estructura,segurito(personaje)
+Honestidad,valor,valor,ventas,fijación
+Oportunidad,aparece necesitas,hacer,no hacer,ganar
+Pensamiento,representación mental alguien,mente,bien,advertencia
+Acuerdo,negociación,no discusión,llegar,laboral
+Esperanza,esperar   forma segura paciente necesitando,planificación,acción,resolución
+Excusa,usada justificar malas acciones,acción,argumentación,descontrol
+Excusa,respuesta,lógica,alternativa,incapacidad
+Obsesión,dejar pensar querer  ,querer,pensamiento,insomnio
+Definición,significado,significado,detallar,explicación
+Desesperación,esperanzas,desesperanza,deseo,optimismo
+Habilidad,blandas duras,comer,psicopatía,material
+Ganancia,recompensa dinero acción,recompensa,dinero,acción
+Ganancia ,utilidad,utilidad,valor,properidad
+Compasión,gente siente gente pobre,admiración,comer,persona
+Agradecimiento,sentimiento alguien,indebido,sentimiento,bien
+Excusa,narracion hechos,incapacidad,estructura,advertencia
+Destreza,habilidad,habilidades,habilidades,destreza
+Decisión,malas elecciones sto sufrir consecuencias,consecuencias,descontrol,negativo
+Seguridad,personas timidas,dos o más partes,ayuda,positivo
+Pensamiento,humano capaz ocuparlo,humano,resolución,carrera
+Acuerdo,aveces usado conveniencia,académico,común,siempre
+Peligro,situacion evitar,alerta,sobrepasar,evitación
+Agradecimiento,amerita retribucion,justificación,optimizacion,planificación
+Verdad,caer mentira,mentira,no mentir,pensamiento
+Compasión,empatia,empatía,optimizacion,negativo
+Plan,estrategia,estrategia,acción,escape
+Éxito,lograr objetivo,objetivos,escape,objetivos
+Destreza,capacidad promedio gente disciplina,admiración,planificación,características
+Razón,seres humanos,animales,humano,psicopatía
+Razón,predomina siglo 18,características,repetición,características
+Habilidad,contrario discapacidad,psicopatía,no mentir,ayuda
+Pensamiento,asociar,repetición,bien,estructura
+Desesperación,,bien,properidad,advertencia
+Felicidad,sensación alegría,sensación,alegría,emoción
+Plan,elaborar procedimiento,aclaración,análisis,properidad
+Habilidad,destreza,destreza,habilidades,agilidad/fuerza
+Ansiedad,descontrol,descontrol,agravante,desgracia
+Plan,idea,idea,idea,estructura
+Seguridad,mama,enfermedad,sudor,lema patrio
+Ansiedad,estrés,estrés,angustia,trastorno
+Compasión ,,bien,properidad,advertencia
+Ganancia,dinero generado producto trabajo trueque,dinero,dinero,ventas
+Plan,organizar actividades semana mes año,acción,lema patrio,planificación
+Acuerdo,personas negocios,dos o más partes,ayuda,empresas
+Culpa,limpiarse superarla,no soltar,empatía,insomnio
+Excusa,forma justificarse,acción,argumentación,properidad
+Destreza,trepar arboles necesita,dificultad,interés,optimizacion
+Éxito,cumplimiento objetivos,objetivos,logro,deber
+Éxito,objetivo vida,bien,objetivos,objetivos
+Compasión,empatía,empatía,cognitivo,autoafirmación
+Sugerencia ,percepcion idea persona posee,idea,advertencia,persona
+Decisión,atreverse,no soltar,querer,querer
+Desesperación,agoviado,bien,properidad,advertencia
+Habilidad,caracteristica(s destaca(n persona resto,personal,persona,advertencia
+Honestidad,honroso,lema patrio,momento,acción
+Obligación,tarea,tareas,tareas,ayuda
+Peligro,pone riesgo integridad,riesgo,riesgo,peligro
+Honestidad,puro hablando,explicación,pensamiento,responsabilidad
+Pensamiento,motor trabaja conceptos aprendidos generar respuesta,estructura,escape,no sistema
+Acuerdo,conlleva beneficio mutuo,beneficios,sociedad,esfuerzo
+Plan,pensado,pensamiento,pensamiento,lema patrio
+Peligro,premonicion guerra genera,desgracia,descontrol,angustia
+Esperanza,añoranza,sentimiento,no tristeza,angustia
+Amenaza,miedo especifico,miedo,negativo,pensamiento
+Peligro,riesgo,riesgo,riesgo,peligro
+Plan,utiliza empresas,siempre,académico,empresas
+Destreza,aumenta probabilidad esquivar golpe,desgracia,descontrol,riesgo
+Ansiedad,ataquede,bien,properidad,advertencia
+Obligación,trae consecuencias,consecuencias,descontrol,desgracia
+Honestidad,transparencia,transparencia,honestidad,coherencia
+Honestidad,transparente,transparencia,transparencia,veracidad
+Seguridad,confianza,confianza,tranquilidad,ayuda
+Éxito,plenitud,plenitud,explicación,tranquilidad
+Felicidad,sensación plena satisfacción,satisfacción,sensación,tranquilidad
+Excusa,evadir,evación,complot,intimidación
+Excusa,forma culpa algun suceso,negativo,incapacidad,desgracia
+Excusa,decimos justificarnos accion hicimos persona,negativo,empatía,acción
+Compasión,sentimiento positivo,positivo,sentimiento,positivo
+Peligro,cuidado,cuidado,padres,atención
+Destreza,obtiene rendimiento,esfuerzo,carrera,beneficios
+Honestidad,persona carente genera desconfianza,advertencia,desgracia,persona
+Culpa,generado análisis acciones pasadas,acción,descontrol,planificación
+Verdad,carácter subjetivo,moral,explicación,estructura
+Destreza,otorga facilidad,facilidad,esfuerzo,permitir
+Amenaza,enfrentamiento,complot,ataque,acción
+Felicidad,compartir emoción,emoción,alegría,ganar
+Esperanza,creer benevolo suceder,bien,creencia,pensamiento
+Razón,sabiduría,Dios,honestidad,explicación
+Obsesión,especie irracionalidad búsqueda alguien,explicación,bien,advertencia
+Razón,encontrar mundo leyes,muchos,estructura,escape
+Esperanza,pensamientos positivos suceder,positivo/negativo,bien,pensamiento
+Seguridad,antivirus,memoria,enfermedad,advertencia
+Desesperación,persona siente,persona,comer,personal
+Felicidad,musica,atención,lema patrio,advertencia
+Ganancia,asociada dinero,dinero,pensamiento,proporción
+Obsesión,incapacidad dejar pensar alguien,pensamiento,bien,insomnio
+Éxito,llegan,psicopatía,alivio,llegar
+Agradecimiento,experimenta,angustia,alivio,desgracia
+Éxito,innovador,estructura,equilibrio,éxito
+Ganancia,contadores calculan,fijación,beneficios,ventas
+Obligación,deber,deber,deber,moral
+Sugerencia ,hablar mejora,análisis,properidad,aclaración
+Ganancia,empresas mueven tenerla,psicopatía,ayuda,planificación
+Honestidad,distorsionar realidad,creencia,explicación,estructura
+Decisión,opciones,opción,opción,posibilidad
+Peligro,necesario ponerse,factible,querer,resolución
+Plan,estudio,análisis,estudiar,trabajo
+Oportunidad,chance presenta,chance,lema patrio,advertencia
+Agradecimiento,gratitud,gratitud,satisfacción,alegría
+Pensamiento,tienes mente imaginar historias falsas pasarse rollos,pensamiento,responsabilidad,estructura
+Plan,complejidad,estructura,dificultad,explicación
+Éxito,forma atraer felicidad,acción,escape,ayuda
+Culpa,sentimiento reconocer equivocación comentarlo,indebido,pensamiento,negativo
+Éxito,victoria,triunfo,ganar,ventaja
+Definición,recapitular rasgos escenciales,estructura,explicación,empatía
+Peligro,temes vida,bien,no soltar,hacer
+Felicidad,sentirse entorno,bien,comer,tristeza
+Acuerdo,concenso,llegar,empatía,aceptación
+Pensamiento,,bien,properidad,advertencia
+Agradecimiento,gracias,gratitud,lema patrio,carrera
+Ansiedad,trastorno psicológico,trastorno,físico/psicológico,angustia
+Pensamiento,modelo,concepto,no sistema,advertencia
+Acuerdo,formales consecuencias,consecuencias,reunión,estructura
+Verdad,contrario mentira,no mentir,mentira,pensamiento
+Seguridad,sirve puntos vista distintos,punto de vista,planificación,material
+Obsesión,sentimiento,sentimiento,indebido,positivo
+Amenaza,alguien advierte,bien,mal,persona
+Razón,tipos,material,académico,fijación
+Ansiedad,inseguro,inquietud,peligro,amabilidad
+Esperanza,fe,fe,fe,creencia
+Ganancia ,saque negocio,lema patrio,empresas,ventas
+Felicidad,sonrisa,sonrisa,risa,amabilidad
+Honestidad,desarrolla,actividades,alivio,práctica
+Peligro,posibilidad daño,daño,posibilidad,daño
+Obsesión,asociado trastorno compulsivo,trastorno,angustia,enfermedad
+Desesperación,alternativas importante,opción,escape,planificación
+Ganancia,persona forma gratitud,gratitud,personal,persona
+Plan,busca asegurar resultados esperados,logro,objetivos,objetivos
+Felicidad,depende,properidad,fijación,no bienestar
+Amenaza,problema,solución,solución,descontrol
+Obsesión,quiero repetir provoca,responsabilidad,pensamiento,deseo
+Agradecimiento,salir carrera daré madre,daño,lema patrio,pensamiento
+Felicidad,concepto pleno,plenitud,concepto,propuesta
+Decisión,persona elige,persona,personal,advertencia
+Éxito,triunfo,triunfo,ganar,acción
+Pensamiento,suele idea,evitación,idea,explicación
+Plan,busca minimizar peligro amenazas,peligro,evitación,objetivos
+Acuerdo,proyeccion,atención,advertencia,lema patrio
+Culpa,reprochan,agravante,incontrolable,argumentación
+Peligro,amenaza externa,amenaza,descontrol,arma
+Desesperación,ansiedad,angustia,angustia,trastorno
+Ansiedad,experimentada algun momento,negativo,momento,optimizacion
+Obsesión,querer cosas,bien,querer,pensamiento
+Ansiedad,nervioso,nerviosismo,cerebro,nerviosismo
+Habilidad,capacidad,capacidad,habilidades,capacidad
+Éxito,triunfar,ganar,logro,carrera
+Agradecimiento,educado,estudiar,amabilidad,inquietud
+Peligro,puedes sufrirlo cuidas,hacer,no hacer,bien
+Felicidad,,bien,properidad,advertencia
+Sugerencia,recomendación,recomendación,sugerencia,propuesta
+Ansiedad,busqueda inaccequible,atención,interés,misión
+Acuerdo,involucra discusión previa,planificación,alternativa,advertencia
+Ganancia,suma capital,beneficios,dinero,planificación
+Razón,seguridad fremte,inseguridad,esperanza,protección
+Plan,efectuan partido,lema patrio,deporte,acción
+Honestidad,suele duda,evitación,planificación,repetición
+Definición,palabras,detallar,significado,bien
+Agradecimiento,gracias,gratitud,lema patrio,carrera
+Éxito,llegar cima algun lugar competenciau,empatía,camino,lema patrio
+Agradecimiento,sientes recibir,bien,hacer,responsabilidad
+Seguridad,antivirus,memoria,enfermedad,advertencia
+Plan,pasos,pasos,camino,estructura
+Acuerdo,legitimización,moral,argumentación,sociedad
+Plan,programa,proyecto,acción,no sistema
+Agradecimiento,creen deberiamos darselo dios divinidad,Dios,explicación,creencia
+Esperanza,motivación,motivación,autoafirmación,agravante
+Plan,conjunto ideas realizarse,estructura,idea,realización
+Éxito,felicidad,felicidad,alegría,felicidad
+Peligro,padres defienden niños vida,padres,psicopatía,bien
+Decisión,alternativa,opción,opción,properidad
+Sugerencia,orientar,guía,estructura,confianza
+Agradecimiento,reconocimiento alguien sentirme,tristeza,bien,conseguir
+Amenaza,delincuentes suelen usarla,evitación,psicopatía,académico
+Desesperación,contrario esperanza,desesperanza,no mentir,no perder
+Peligro,situacion advertencia,alerta,sobrepasar,atención
+Acuerdo,forma generar paz países,escape,acción,estructura
+Habilidad,diferencia persona,personal,advertencia,persona
+Acuerdo,beneficia ambas partes,dos o más partes,planificación,trato
+Culpa,emocional previo búsqueda perdón,acción,planificación,incontrolable
+Acuerdo,estrategia,estrategia,acción,escape
+Desesperación,desenboca malas decisiones,decisión,bien/mal,estrés
+Excusa,efímero,lema patrio,properidad,acción
+Razón,posee humano,humano,características,habilidades
+Acuerdo,planificar,planificación,análisis,confianza
+Amenaza,peligro integridad persona,peligro,advertencia,riesgo
+Sugerencia ,aceptada transforma decision,decisión,advertencia,optimizacion
+Obligación,adultos niños,padres,psicopatía,ayuda
+Ganancia ,rinde,lema patrio,alivio,acción
+Amenaza,situación estresante,futuro,peligro,alerta
+Agradecimiento,felicidad situación,futuro,felicidad,ayuda
+Excusa,pretexto,pretexto,argumentación,incontrolable
+Obsesión,cualidad,cualidad,características,habilidades
+Habilidad,facilita realización acciones,acción,realización,acción
+Agradecimiento,expresión gratitud alguien,gratitud,tristeza,bien
+Razón,explicacion razon,razonamiento,justificación,atención
+Destreza,potencia,arma,características,fuerza
+Excusa,pretexto,pretexto,argumentación,incontrolable
+Desesperación,sensación produce disgusto,angustia,sensación,malestar
+Peligro,inseguridad,inseguridad,violencia,futuro
+Plan,certero,momento,inquietud,lema patrio
+Seguridad,brinda tranquilidad,tranquilidad,planificación,esperanza
+Peligro,menoscabo,moral,daño,agravante
+Pensamiento,desarrolla mente herramienta,estructura,explicación,mente
+Oportunidad,ventana,ventana,candados,daño
+Peligro,muerte,complot,incapacidad,herida
+Destreza,capacidad,capacidad,habilidades,capacidad
+Seguridad,calido,atención,tranquilidad,advertencia
+Sugerencia,consejo,concejo,acción,no discusión
+Razón,razonamiento,razonamiento,pensamiento,cognitivo
+Destreza,obtiene practica,esfuerzo,práctica,siempre
+Pensamiento,proceso interno mental,mente,no sistema,moral
+Amenaza,ofensa,agravante,incontrolable,amabilidad
+Plan,busca solucion frente algun problema,solución,optimizacion,solución
+Definición,construir,escape,properidad,estructura
+Pensamiento,persona,personal,persona,advertencia
+Peligro,personas buscan,dos o más partes,ayuda,psicopatía
+Desesperación,limitación,properidad,fijación,agravante
+Amenaza,alerta,alerta,reacción,advertencia
+Culpa,sentimiento,sentimiento,indebido,positivo
+Destreza,movimientos cordinados,estructura,material,no sistema
+Definición,encuentran diccionarios,diccionario,detallar,segurito(personaje)
+Seguridad,antónimo altera,explicación,repetición,desgracia
+Desesperación,personas sufren encuentran deseosas,psicopatía,ayuda,dos o más partes
+Pensamiento,metodo analisis,análisis,atención,justificación
+Acuerdo,chile países limitan,comer,psicopatía,países
+Peligro,cuerpo prepara momento,planificación,momento,incapacidad
+Obsesión,trastornos relacionados concepto,pensamiento,mente,concepto
+Destreza,ingenio,ingenio,imaginación,talento
+Pensamiento,seres humanos,animales,humano,psicopatía
+Culpa,remordimiento,remordimiento,arrepentimiento,incontrolable
+Seguridad,proteger,protección,descontrol,evitación
+Plan,organiza destresas habilidades,habilidades,capacidad,habilidades
+Culpa,situación delito,futuro,agravante,complot
+Seguridad,sentimiento logra realización actividades,carrera,estructura,actividades
+Felicidad,experiencia,esfuerzo,habilidades,actividades
+Ganancia,concepto términos monetarios,concepto,sociedad,estructura
+Acuerdo,consenza,bien,properidad,advertencia
+Peligro,expuesto situación dañina,peligro,futuro,descontrol
+Pensamiento,proceso cognitivo interno,cognitivo,no sistema,estructura
+Plan,,bien,properidad,advertencia
+Desesperación,descontento,malestar,enojo,descontrol
+Razón,argumento,argumentación,creencia,razonamiento
+Esperanza,expectativas,logro,pérdidas,aceptación
+Ansiedad,desesperado,ataque,querer,desesperación
+Obligación,realiza individuos,ayuda,psicopatía,advertencia
+Definición,libro posee glosario,diccionario,explicación,advertencia
+Felicidad,risas,risa,sonrisa,no soltar
+Peligro,tienes cuidado encuentras situacion,hacer,no hacer,alerta
+Excusa,apela sentimientos,indebido,sentimiento,ataque
+Pensamiento,idea,idea,idea,estructura
+Acuerdo,entendendimiento,bien,properidad,advertencia
+Definición,tiende objetivo,objetivos,objetivos,ataque
+Acuerdo,unir pensamientos,estructura,explicación,ayuda
+Felicidad,emocional alegre,amabilidad,tranquilidad,alegría
+Seguridad,vision,visión,advertencia,atención
+Agradecimiento,totalmente terminos condiciones,optimizacion,planificación,no hacer
+Agradecimiento,sonreir,no soltar,tristeza,ganar
+Plan,llega meta,meta,llegar,carrera
+Esperanza,fuerzas seguir,logro,pasos,intimidación
+Decisión,seguridad,inseguridad,esperanza,protección
+Destreza,genio,talento,locura,inquietud
+Culpa,sentimiento angustia perjudicar,sentimiento,indebido,angustia
+Plan,esquema mapa,no sistema,concepto,estructura
+Amenaza,dirigir palabras riesgo persona opcion concretarlas,idea,advertencia,opción
+Acuerdo,justo,empatía,momento,acción
+Acuerdo,importante   cabo proyecto,idea,proyecto,planificación
+Destreza,habilidad,habilidades,habilidades,destreza
+Ganancia,personas reciben sueldo,ayuda,dos o más partes,psicopatía
+Culpa,experimentar remordimiento,remordimiento,tristeza,arrepentimiento
+Verdad,clave relación amistad pareja,relación,amor,lema patrio
+Peligro,situación alarmante,futuro,peligro,descontrol
+Ganancia,financiamiento,dinero,escasez,sociedad
+Plan,ordenado,lema patrio,momento,properidad
+Agradecimiento,capacidad crítica,capacidad,crítica,habilidades
+Razón,opinión,opinión,creencia,aclaración
+Destreza,capacidad innata,capacidad,habilidades,habilidades
+Esperanza,verde,proporción,comer,lema patrio
+Peligro,miedo,miedo,desesperación,pensamiento
+Pensamiento,juicio,juicio,acción,agravante
+Plan,suele involucrar personas,ayuda,dos o más partes,evitación
+Honestidad,atributo,advertencia,características,fijación
+Sugerencia,acotación,advertencia,fijación,properidad
+Acuerdo,comprometerse condiciones,aceptación,ayuda,objetivos
+Verdad,sirve mantener relaciones sociales estables,estructura,escape,psicopatía
+Obligación,rendimiento,desempeño,properidad,capacidad
+Desesperación,sentimiento intranquilizante,sentimiento,indebido,positivo
+Sugerencia ,sujeta gusto persona,advertencia,persona,personal
+Agradecimiento,gratitud,gratitud,satisfacción,alegría
+Razón,propósito,objetivos,objetivos,escape
+Amenaza,alerta,alerta,reacción,advertencia
+Obsesión,piensa gusta,molestia,comer,pensamiento
+Obsesión,descontrolado,descontrol,desgracia,descontrol
+Ganancia ,positivo experiencia,positivo,positivo,positivo
+Esperanza,gente recurre momentos desesperacion,admiración,bien,ataque
+Esperanza,sentimiento necesario adversidad,indebido,sentimiento,ayuda
+Habilidad,general,constructivo,planificación,acción
+Decisión,cosas debo tomar,bien,conseguir,pensamiento
+Sugerencia ,corregir,análisis,descontrol,descontrol
+Felicidad,problemas,solución,solución,descontrol
+Felicidad,gente busca,admiración,objetivos,esperanza
+Razón,permite,permitir,siempre,ganar
+Destreza,determinan futuro persona,advertencia,persona,personal
+Amenaza,conjunto situaciones intentan perjudicar alguien,estrés,ayuda,resolución
+Ansiedad,impulso,properidad,éxito,positivo
+Obligación,deber,deber,deber,moral

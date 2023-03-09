@@ -2,7 +2,7 @@
 
 This project presents a novel algorithm that uses natural language processing (NLP) techniques to perform content analysis on feature listing data. This model is experimental, here you can appreciate some experiments in 2 datasets in Spanish. Also, there is the option to use it in English.
 
-The model has 3 main steps, data cleaning, word embedding and classification.
+The model has 3 main steps, data cleaning, word embedding, and classification.
 
 
 ## Requirements
@@ -19,24 +19,23 @@ In the **Important Variables** section, there are the main variables for the mod
 - `pathData`: The path of the data to apply the AC_PLT.
 - `numberCluster`: The number of clusters you want.
 - `numberCodes`: The number of suggested codes for your data.
-- `outputFile`: The path to save the result dataframe.
+- `outputFile`: The path to save the result of the dataframe.
 
-
-In the section **Setting the Language**, there is a section where you can choose the language of your preference (if you download the word2vec specified in [Requirements](##Requirements)).
+The section **Setting the Language** can manage Spanish and English. For other languages, please modify the code at your own risk.
 
 The section **Important functions** implement the function for **Data Cleaning** section. 
 
-The **Word Embedding** section applies the embedding process based on the selected embeddings. The final In the reduction of the matrix part, have to change the order of the dataset, first 300 columns are the *vector value*, then the *Concept*, *Description* and *Codification* in that exact order. In the case of the data to codify, we discard the *Codification* column.
+The **Word Embedding** section applies the embedding process based on the selected embeddings. The final In the reduction of the matrix part, have to change the order of the dataset, first 300 columns are the *vector value*, then the *Concept*, *Description*, and *Codification* in that exact order. In the case of the data to codify, we should not have the *Codification* column.
 
 
 In **Model**, there is the main algorithm ``AC_PLT()``, where the only parameter is `n_clusters` the number of clusters of the *k*-Means algorithm. The important functions are:
-- ``fit()``: receives the training dataset and trains the k-means algorithm.
+- ``fit()``: receives the training dataset and trains the k-means algorithm with n_clusters clusters.
 - ``transform()``: receives the test dataset, and returns a matrix with the top-1 to top-*p* accuracy of the model.
-- ``suggestions()``: Recives the data to codify and the number of suggestion you want, and return a dataframe with the number of suggestions columns you specify.
+- ``suggestions()``: Receives the data to codify and the number of suggestions defined in the variable section. It returns a data frame with the number of suggestions required.
 
-Finally, the **Codification Suggested** section is the process to create a CSV with all the suggested codifications by the AC-PLT model.
+Finally, the **Codification Suggested** section is the process to create a CSV with all the suggested codifications by the AC-PLT model, which is saved in the defined path.
 
 ### Replicant
 
-The file [Replication.ipynb](/src/Replication.ipynb) has the experimentation of the model aplied in the *CPN 2*7 and *CPN 120*, the instrucction are the same as the [Suggestion](#suggestion) section, only removing the **Codification Suggested**, and replaced with the Following sections **Experiments** and **Search of hyperparameter *k***, if the previous steps are correct you can see the results of the model for your dataset.
+The file [Replication.ipynb](/src/Replication.ipynb) has the experimentation of the model applied in the *CPN 2*7 and *CPN 120*. This code allows you to calculate the p-top accuracy when this model is used on a single CSV file. It does not generate the codification in a CSV file. Two new sections were added **Experiments** and **Search of hyperparameter *k***. If run properly, you can replicate the results of the paper using the original datasets.
 
