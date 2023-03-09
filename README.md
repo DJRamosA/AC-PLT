@@ -4,7 +4,9 @@ This project presents a novel algorithm that uses natural language processing (N
 
 The model has 3 main steps, data cleaning, word embedding, and classification.
 
-To run the algorithm with the provided example, just run all the codes without changing any path.
+
+To run the algorithm with the provided example, download all codes and required files (embedding), install the corresponding libraries, and run the code without any change. Otherwise, to apply the model to your own data, you just have to change the paths of the training and the data to codified, following the specifications of the CSV files (see below for more details).
+
 
 ## Requirements
 
@@ -13,9 +15,9 @@ This project runs under `python==3.10.9`. You can install all the libraries usin
 ## Usages
 
 ### Suggestion 
-The jupyter notebook file [AC_PLT.ipynb](/src/AC_PLT.ipynb) has the main code and the corresponding instructions. To use this model the dataset needs to be in a csv file with the three following columns: `concept`, `feature`, and `codification` (please keep the order of the columns, but the names of the head columns are not important). 
+The jupyter notebook file [AC_PLT.ipynb](/src/AC_PLT.ipynb) has the main code and the corresponding instructions. To use this model the dataset needs to be in a CSV file with the three following columns: `concept`, `feature`, and `codification` (please keep the order of the columns, but the names of the head columns are not important). 
 
-In the *Important Variables* section, there are the main variables for the model, modify depending on your necessities, those are:
+In the Important Variables section, there are the main variables for the model, modify depending on your necessities, those are:
 - `pathTrainData`: The file for the training dataset.
 - `pathData`: The path of the data to apply the AC_PLT.
 - `pathEmbedding`: The path of the embedding, previously downloaded.
@@ -24,21 +26,21 @@ In the *Important Variables* section, there are the main variables for the model
 - `numberCodes`: The number of suggested codes for your data.
 - `language`: Original language, it can be set to "spanish" or "english"
 
-The section *Setting the Language* can manage Spanish and English. For other languages, please modify the code at your own risk.
+The section Setting the Language can manage Spanish and English. For other languages, please modify the code at your own risk.
 
-The section *Important functions* implement the function for *Data Cleaning* section. 
+The section Important functions implement the function for Data Cleaning section. 
 
-The *Word Embedding* section applies the embedding process based on the selected embeddings. The final In the reduction of the matrix part, have to change the order of the dataset, first 300 columns are the vector value, then the Concept, Description, and Codification in that exact order. In the case of the data to codify, we should not have the Codification column.
+The Word Embedding section applies the embedding process based on the selected embeddings. The final In the reduction of the matrix part, have to change the order of the dataset, first 300 columns are the vector value, then the Concept, Description, and Codification in that exact order. In the case of the data to codify, the first two columns of the CSV are used (concepts and properties).
 
 
-In *Model, there is the main algorithm ``AC_PLT()``, where the only parameter is `n_clusters` the number of clusters of the *k-Means algorithm. The important functions are:
+Section Model has the main algorithm ``AC_PLT()``. This class needs a single hyperparameter (`n_clusters`), which corresponds to the important variable `numberCluster`. Recall, this is the number of cluster for the *k-Means algorithm. The important functions of this class are:
 
 - ``fit()``: receives the training dataset and trains the k-means algorithm with n_clusters clusters.
 - ``transform()``: receives the test dataset, and returns a matrix with the top-1 to top-p accuracy of the model.
 - ``suggestions()``: Receives the data to codify and the number of suggestions defined in the variable section. It returns a data frame with the number of suggestions required.
 
-Finally, the *Codification Suggested* section is the process to create a CSV with all the suggested codifications by the AC-PLT model, which is saved in the defined path.
+Finally, the Codification Suggested section trains the model with the number of clusters over the training data, and applies the learned model in the data to be codified. Finally, a CSV file is generated with all the suggested codifications by the AC-PLT model, which is saved in the defined path.
 
 ### Replicant
 
-The file [Replication.ipynb](/src/Replication.ipynb) has the experimentation of the model applied in the CPN 27 and CPN 120. This code allows you to calculate the p-top accuracy when this model is used on a single CSV file. It does not generate the codification in a CSV file. Two new sections were added *Experiments* and *Search of hyperparameter *k**. If run properly, you can replicate the results of the paper using the original datasets.
+The file [Replication.ipynb](/src/Replication.ipynb) has the experimentation of the model applied in CPN 27 and CPN 120. This code allows you to calculate the p-top accuracy when this model is used on a single CSV file. It does not generate the codification in a CSV file. Two new sections were added Experiments and Search of hyperparameter *k*. If run properly, you can replicate the results of the paper using the original datasets.
