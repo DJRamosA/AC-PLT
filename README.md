@@ -8,12 +8,12 @@ To run the algorithm with the provided example, download all codes and required 
 
 ## Requirements
 
-This project runs under ``python==3.10.9``. You can install all the libraries using pip install -r src\requirements.txt. The original code uses the vectors of the [Spanish-word-embedding](https://github.com/dccuchile/spanish-word-embeddings#word2vec-embeddings-from-sbwc) (specifically the Binary format .bin.gz). After you download the file, add it to the data folder. In the case of an English dataset, you can use the [word2vec-google-news-300](https://huggingface.co/fse/word2vec-google-news-300/tree/main). Remember that the English version has not been tested.
+This project runs under ``python==3.10.9``. You can install all the libraries using ``pip install -r src\requirements.txt``. The original code uses the vectors of the [Spanish-word-embedding](https://github.com/dccuchile/spanish-word-embeddings#word2vec-embeddings-from-sbwc) (specifically the Binary format .bin.gz). After you download the file, add it to the data folder. In the case of an English dataset, you can use the [word2vec-google-news-300](https://huggingface.co/fse/word2vec-google-news-300/tree/main). Remember that the English version has not been tested.
 
 ## Uses
 
 ### Suggestion 
-The jupyter notebook file [AC_PLT.ipynb](/src/AC_PLT.ipynb) has the main code and the corresponding instructions. To use this model the dataset needs to be in a csv file with the three following columns: concept (the name of the concept, e.g. DOG), feature (the raw property listed by a subject, e.g. “has four legs”, and the code manually assigned by a human coder to the raw property (e.g., “quadruped”) (please keep the order of the columns, but the labels of the head columns are not important). 
+The jupyter notebook file [AC_PLT.ipynb](/src/AC_PLT.ipynb) has the main code and the corresponding instructions. To use this model the dataset needs to be in a CSV file with the three following columns: concept (the name of the concept, e.g. DOG), feature (the raw property listed by a subject, e.g. “has four legs”, and the code manually assigned by a human coder to the raw property (e.g., “quadruped”) (please keep the order of the columns, but the labels of the head columns are not important). 
 
 The *Important Variables* section of the code contains the main variables for the model, which may be changed according to your needs:
 - `pathTrainData`: The path and name of the file that contains the training dataset.
@@ -32,8 +32,8 @@ The *Word Embedding* section applies the embedding process based on the selected
 
 Section *Model* has the main algorithm : `AC_PLT()`. This class needs a single hyperparameter (`n_clusters`), which corresponds to the important variable `numberCluster` defined before. Remember that this is the number of clusters for the k-Means algorithm. The important functions of this class are:
 
--  `fit()` : receives the training dataset and trains the k-means algorithm with n_clusters clusters.
-- `suggestions()` : receives the data to be coded, and returns a matrix with the numberCodes codes assigned by the model to the dataset. 
+-  `fit()` : receives the training dataset and trains the k-means algorithm with `n_clusters` clusters.
+- `suggestions()` : receives the data to be coded, and returns a matrix with the `numberCodes` codes assigned by the model to the dataset. 
 
 The *Codification Suggested* section trains the model with the number of clusters using the training data, and applies the learned model to the data to be codified. Finally, a CSV file is generated with all the codifications suggested by the AC-PLT model, which is saved in the defined path and name by the `outputFile` variable.
 

@@ -169,6 +169,7 @@ SBW-vectors-300-min5.bin
 SBW-vectors-300-min5.bin.gz
 src/CPN27
 src/CPN120
+src/Tests
 data/data_buchanan
 data/CPN27
 data/CPN120
