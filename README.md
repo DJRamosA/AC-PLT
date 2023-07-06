@@ -39,4 +39,4 @@ The *Codification Suggested* section trains the model with the number of cluster
 
 ### Replication of results (using the provided files)
 
-The file [Replication.ipynb](/src/Replication.ipynb) has the code for replicating the results corresponding to the CPN27 and CNP120 datasets. This code does not generate a codification in a CSV file. Instead, it calculates the top-*p* (`numberCodes) accuracies applying _k_-fold cross validation to the training data. Two new sections were added to this code: *Experiments* and *Search of hyperparameter *k**. If run properly, you can replicate the results of the paper using the original datasets CPN27 and CPN120.
+The file [Replication.ipynb](/src/Replication.ipynb) has the code for replicating the results corresponding to the CPN27 and CNP120 datasets. This code does not generate a codification in a CSV file. Instead, it calculates the top-*p* (`numberCodes`) accuracies applying _k_-fold cross validation to the training data. Two new sections were added to this code: *Experiments* and *Search of hyperparameter *k**. If run properly, you can replicate the results of the paper using the original datasets CPN27 and CPN120.
