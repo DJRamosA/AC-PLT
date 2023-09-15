@@ -1,4 +1,4 @@
-# AC-PLT (Automatic Codification of PLT)
+# AC-PLT (Assisted Codification for PLT)
 
 This project presents a novel algorithm that uses natural language processing (NLP) techniques to semi-automatically code feature listing data. The corresponding code is experimental and was applied to two Spanish datasets. We also provide an English option that has not been tested.
 
